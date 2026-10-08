@@ -1,0 +1,301 @@
+﻿year,month,purpose,tourists_000,month_num
+2021,January,Religious,3.235,1
+2021,February,Religious,2.576,2
+2021,March,Religious,2.4,3
+2021,April,Religious,6.487,4
+2021,May,Religious,6.822,5
+2021,June,Religious,3.097,6
+2021,July,Religious,11.453,7
+2021,August,Religious,4.613,8
+2021,September,Religious,28.698,9
+2021,October,Religious,51.693,10
+2021,November,Religious,63.959,11
+2021,December,Religious,88.824,12
+2022,January,Religious,84.045,1
+2022,February,Religious,199.166,2
+2022,March,Religious,371.53,3
+2022,April,Religious,720.857,4
+2022,May,Religious,280.005,5
+2022,June,Religious,13.233,6
+2022,July,Religious,809.919,7
+2022,August,Religious,369.761,8
+2022,September,Religious,618.299,9
+2022,October,Religious,819.947,10
+2022,November,Religious,823.165,11
+2022,December,Religious,885.591,12
+2023,January,Religious,1035.0,1
+2023,February,Religious,1105.0,2
+2023,March,Religious,1378.0,3
+2023,April,Religious,1005.0,4
+2023,May,Religious,348.0,5
+2023,June,Religious,1715.0,6
+2023,July,Religious,185.0,7
+2023,August,Religious,749.0,8
+2023,September,Religious,861.0,9
+2023,October,Religious,981.0,10
+2023,November,Religious,991.0,11
+2023,December,Religious,1115.0,12
+2024,January,Religious,1257.713,1
+2024,February,Religious,1378.683,2
+2024,March,Religious,1530.038,3
+2024,April,Religious,674.638,4
+2024,May,Religious,101.408,5
+2024,June,Religious,1668.119,6
+2024,July,Religious,538.839,7
+2024,August,Religious,796.615,8
+2024,September,Religious,854.681,9
+2024,October,Religious,1066.706,10
+2024,November,Religious,1117.704,11
+2024,December,Religious,1345.827,12
+2025,January,Religious,1729.629,1
+2025,February,Religious,1643.959,2
+2025,March,Religious,1374.98,3
+2025,April,Religious,473.463,4
+2025,May,Religious,20.649,5
+2025,June,Religious,1605.861,6
+2025,July,Religious,930.399,7
+2025,August,Religious,1046.167,8
+2025,September,Religious,1096.291,9
+2025,October,Religious,1220.629,10
+2025,November,Religious,1388.106,11
+2025,December,Religious,1585.536,12
+2021,January,Business,70.329,1
+2021,February,Business,51.087,2
+2021,March,Business,66.527,3
+2021,April,Business,71.206,4
+2021,May,Business,63.521,5
+2021,June,Business,69.077,6
+2021,July,Business,65.405,7
+2021,August,Business,80.709,8
+2021,September,Business,85.453,9
+2021,October,Business,115.101,10
+2021,November,Business,131.097,11
+2021,December,Business,143.599,12
+2022,January,Business,105.343,1
+2022,February,Business,107.211,2
+2022,March,Business,162.75,3
+2022,April,Business,175.428,4
+2022,May,Business,141.474,5
+2022,June,Business,150.989,6
+2022,July,Business,114.53,7
+2022,August,Business,139.504,8
+2022,September,Business,140.42,9
+2022,October,Business,146.041,10
+2022,November,Business,138.716,11
+2022,December,Business,144.287,12
+2023,January,Business,150.0,1
+2023,February,Business,144.0,2
+2023,March,Business,165.0,3
+2023,April,Business,147.0,4
+2023,May,Business,166.0,5
+2023,June,Business,129.0,6
+2023,July,Business,132.0,7
+2023,August,Business,146.0,8
+2023,September,Business,147.0,9
+2023,October,Business,169.0,10
+2023,November,Business,175.0,11
+2023,December,Business,194.0,12
+2024,January,Business,195.174,1
+2024,February,Business,178.69,2
+2024,March,Business,161.054,3
+2024,April,Business,120.669,4
+2024,May,Business,150.922,5
+2024,June,Business,130.941,6
+2024,July,Business,144.818,7
+2024,August,Business,148.856,8
+2024,September,Business,153.199,9
+2024,October,Business,177.16,10
+2024,November,Business,190.262,11
+2024,December,Business,224.025,12
+2025,January,Business,200.108,1
+2025,February,Business,198.533,2
+2025,March,Business,216.555,3
+2025,April,Business,175.424,4
+2025,May,Business,139.347,5
+2025,June,Business,139.744,6
+2025,July,Business,206.799,7
+2025,August,Business,207.617,8
+2025,September,Business,179.825,9
+2025,October,Business,201.306,10
+2025,November,Business,193.366,11
+2025,December,Business,191.921,12
+2021,January,Leisure,5.646,1
+2021,February,Leisure,2.677,2
+2021,March,Leisure,6.346,3
+2021,April,Leisure,9.067,4
+2021,May,Leisure,11.91,5
+2021,June,Leisure,11.889,6
+2021,July,Leisure,26.312,7
+2021,August,Leisure,24.796,8
+2021,September,Leisure,23.898,9
+2021,October,Leisure,39.773,10
+2021,November,Leisure,55.235,11
+2021,December,Leisure,94.61,12
+2022,January,Leisure,83.669,1
+2022,February,Leisure,94.781,2
+2022,March,Leisure,143.001,3
+2022,April,Leisure,164.461,4
+2022,May,Leisure,103.096,5
+2022,June,Leisure,66.961,6
+2022,July,Leisure,122.463,7
+2022,August,Leisure,147.537,8
+2022,September,Leisure,215.272,9
+2022,October,Leisure,285.102,10
+2022,November,Leisure,404.009,11
+2022,December,Leisure,635.843,12
+2023,January,Leisure,523.0,1
+2023,February,Leisure,514.0,2
+2023,March,Leisure,533.0,3
+2023,April,Leisure,549.0,4
+2023,May,Leisure,386.0,5
+2023,June,Leisure,424.0,6
+2023,July,Leisure,453.0,7
+2023,August,Leisure,580.0,8
+2023,September,Leisure,469.0,9
+2023,October,Leisure,513.0,10
+2023,November,Leisure,508.0,11
+2023,December,Leisure,794.0,12
+2024,January,Leisure,732.011,1
+2024,February,Leisure,738.176,2
+2024,March,Leisure,728.061,3
+2024,April,Leisure,685.348,4
+2024,May,Leisure,496.035,5
+2024,June,Leisure,379.964,6
+2024,July,Leisure,455.332,7
+2024,August,Leisure,555.953,8
+2024,September,Leisure,465.457,9
+2024,October,Leisure,625.018,10
+2024,November,Leisure,686.583,11
+2024,December,Leisure,957.739,12
+2025,January,Leisure,868.419,1
+2025,February,Leisure,686.644,2
+2025,March,Leisure,729.827,3
+2025,April,Leisure,564.014,4
+2025,May,Leisure,252.513,5
+2025,June,Leisure,271.385,6
+2025,July,Leisure,450.392,7
+2025,August,Leisure,522.202,8
+2025,September,Leisure,467.862,9
+2025,October,Leisure,640.55,10
+2025,November,Leisure,671.353,11
+2025,December,Leisure,914.408,12
+2021,January,Other,22.115,1
+2021,February,Other,16.753,2
+2021,March,Other,24.465,3
+2021,April,Other,28.77,4
+2021,May,Other,35.358,5
+2021,June,Other,36.099,6
+2021,July,Other,46.77,7
+2021,August,Other,43.967,8
+2021,September,Other,40.704,9
+2021,October,Other,44.915,10
+2021,November,Other,45.578,11
+2021,December,Other,54.51,12
+2022,January,Other,51.245,1
+2022,February,Other,69.943,2
+2022,March,Other,132.671,3
+2022,April,Other,114.668,4
+2022,May,Other,106.716,5
+2022,June,Other,114.209,6
+2022,July,Other,181.787,7
+2022,August,Other,182.794,8
+2022,September,Other,90.152,9
+2022,October,Other,72.205,10
+2022,November,Other,89.749,11
+2022,December,Other,171.218,12
+2023,January,Other,164.0,1
+2023,February,Other,157.0,2
+2023,March,Other,146.0,3
+2023,April,Other,122.0,4
+2023,May,Other,101.0,5
+2023,June,Other,101.0,6
+2023,July,Other,124.0,7
+2023,August,Other,127.0,8
+2023,September,Other,115.0,9
+2023,October,Other,126.0,10
+2023,November,Other,136.0,11
+2023,December,Other,226.0,12
+2024,January,Other,270.879,1
+2024,February,Other,214.93,2
+2024,March,Other,146.725,3
+2024,April,Other,117.132,4
+2024,May,Other,107.373,5
+2024,June,Other,118.275,6
+2024,July,Other,150.29,7
+2024,August,Other,179.983,8
+2024,September,Other,118.828,9
+2024,October,Other,172.844,10
+2024,November,Other,159.905,11
+2024,December,Other,208.23,12
+2025,January,Other,219.793,1
+2025,February,Other,158.951,2
+2025,March,Other,147.477,3
+2025,April,Other,102.189,4
+2025,May,Other,65.016,5
+2025,June,Other,90.337,6
+2025,July,Other,182.391,7
+2025,August,Other,121.996,8
+2025,September,Other,72.116,9
+2025,October,Other,96.334,10
+2025,November,Other,77.571,11
+2025,December,Other,143.401,12
+2021,January,Visiting Friends & Relatives,131.441,1
+2021,February,Visiting Friends & Relatives,51.939,2
+2021,March,Visiting Friends & Relatives,48.556,3
+2021,April,Visiting Friends & Relatives,60.501,4
+2021,May,Visiting Friends & Relatives,67.234,5
+2021,June,Visiting Friends & Relatives,55.27,6
+2021,July,Visiting Friends & Relatives,81.356,7
+2021,August,Visiting Friends & Relatives,103.28,8
+2021,September,Visiting Friends & Relatives,129.41,9
+2021,October,Visiting Friends & Relatives,201.503,10
+2021,November,Visiting Friends & Relatives,197.724,11
+2021,December,Visiting Friends & Relatives,309.874,12
+2022,January,Visiting Friends & Relatives,224.634,1
+2022,February,Visiting Friends & Relatives,217.939,2
+2022,March,Visiting Friends & Relatives,407.161,3
+2022,April,Visiting Friends & Relatives,437.072,4
+2022,May,Visiting Friends & Relatives,473.081,5
+2022,June,Visiting Friends & Relatives,521.824,6
+2022,July,Visiting Friends & Relatives,536.926,7
+2022,August,Visiting Friends & Relatives,470.976,8
+2022,September,Visiting Friends & Relatives,474.835,9
+2022,October,Visiting Friends & Relatives,429.479,10
+2022,November,Visiting Friends & Relatives,384.382,11
+2022,December,Visiting Friends & Relatives,553.787,12
+2023,January,Visiting Friends & Relatives,609.0,1
+2023,February,Visiting Friends & Relatives,536.0,2
+2023,March,Visiting Friends & Relatives,648.0,3
+2023,April,Visiting Friends & Relatives,601.0,4
+2023,May,Visiting Friends & Relatives,513.0,5
+2023,June,Visiting Friends & Relatives,479.0,6
+2023,July,Visiting Friends & Relatives,457.0,7
+2023,August,Visiting Friends & Relatives,507.0,8
+2023,September,Visiting Friends & Relatives,448.0,9
+2023,October,Visiting Friends & Relatives,402.0,10
+2023,November,Visiting Friends & Relatives,427.0,11
+2023,December,Visiting Friends & Relatives,574.0,12
+2024,January,Visiting Friends & Relatives,678.976,1
+2024,February,Visiting Friends & Relatives,600.706,2
+2024,March,Visiting Friends & Relatives,595.089,3
+2024,April,Visiting Friends & Relatives,458.508,4
+2024,May,Visiting Friends & Relatives,648.3,5
+2024,June,Visiting Friends & Relatives,492.241,6
+2024,July,Visiting Friends & Relatives,466.459,7
+2024,August,Visiting Friends & Relatives,457.005,8
+2024,September,Visiting Friends & Relatives,379.341,9
+2024,October,Visiting Friends & Relatives,374.869,10
+2024,November,Visiting Friends & Relatives,387.193,11
+2024,December,Visiting Friends & Relatives,410.944,12
+2025,January,Visiting Friends & Relatives,535.355,1
+2025,February,Visiting Friends & Relatives,457.416,2
+2025,March,Visiting Friends & Relatives,418.536,3
+2025,April,Visiting Friends & Relatives,302.962,4
+2025,May,Visiting Friends & Relatives,261.862,5
+2025,June,Visiting Friends & Relatives,256.952,6
+2025,July,Visiting Friends & Relatives,408.058,7
+2025,August,Visiting Friends & Relatives,379.173,8
+2025,September,Visiting Friends & Relatives,343.826,9
+2025,October,Visiting Friends & Relatives,331.438,10
+2025,November,Visiting Friends & Relatives,291.671,11
+2025,December,Visiting Friends & Relatives,384.183,12

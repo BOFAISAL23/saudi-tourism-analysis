@@ -1,0 +1,421 @@
+﻿year,month,origin_region,tourists_000,month_num
+2021,January,GCC,77.347,1
+2021,February,GCC,35.066120000000005,2
+2021,March,GCC,30.934990000000003,3
+2021,April,GCC,44.6772,4
+2021,May,GCC,73.03305999999999,5
+2021,June,GCC,63.11629,6
+2021,July,GCC,114.74119999999999,7
+2021,August,GCC,112.54303999999999,8
+2021,September,GCC,129.89608,9
+2021,October,GCC,159.11069,10
+2021,November,GCC,179.18321,11
+2021,December,GCC,262.84654,12
+2022,January,GCC,190.78416,1
+2022,February,GCC,213.15228,2
+2022,March,GCC,461.36388,3
+2022,April,GCC,456.64719,4
+2022,May,GCC,455.96961,5
+2022,June,GCC,421.78921,6
+2022,July,GCC,677.0049,7
+2022,August,GCC,605.77697,8
+2022,September,GCC,500.24494,9
+2022,October,GCC,485.4111,10
+2022,November,GCC,513.99144,11
+2022,December,GCC,823.2449,12
+2023,January,GCC,896.966,1
+2023,February,GCC,790.601,2
+2023,March,GCC,763.33,3
+2023,April,GCC,774.799,4
+2023,May,GCC,535.201,5
+2023,June,GCC,720.037,6
+2023,July,GCC,748.06,7
+2023,August,GCC,825.359,8
+2023,September,GCC,621.577,9
+2023,October,GCC,521.456,10
+2023,November,GCC,537.915,11
+2023,December,GCC,895.89,12
+2024,January,GCC,1062.602,1
+2024,February,GCC,870.236,2
+2024,March,GCC,741.463,3
+2024,April,GCC,568.801,4
+2024,May,GCC,472.59,5
+2024,June,GCC,574.565,6
+2024,July,GCC,589.912,7
+2024,August,GCC,772.119,8
+2024,September,GCC,474.558,9
+2024,October,GCC,506.894,10
+2024,November,GCC,544.764,11
+2024,December,GCC,787.325,12
+2025,January,GCC,856.792,1
+2025,February,GCC,538.521,2
+2025,March,GCC,604.929,3
+2025,April,GCC,439.257,4
+2025,May,GCC,283.461,5
+2025,June,GCC,325.149,6
+2025,July,GCC,531.021,7
+2025,August,GCC,538.426,8
+2025,September,GCC,340.22,9
+2025,October,GCC,383.035,10
+2025,November,GCC,337.754,11
+2025,December,GCC,502.889,12
+2021,January,Middle East,72.283,1
+2021,February,Middle East,29.393,2
+2021,March,Middle East,37.168,3
+2021,April,Middle East,40.305,4
+2021,May,Middle East,36.984,5
+2021,June,Middle East,45.828,6
+2021,July,Middle East,45.98,7
+2021,August,Middle East,63.3,8
+2021,September,Middle East,82.908,9
+2021,October,Middle East,137.69,10
+2021,November,Middle East,125.795,11
+2021,December,Middle East,171.803,12
+2022,January,Middle East,146.34609,1
+2022,February,Middle East,191.98948000000001,2
+2022,March,Middle East,279.41481,3
+2022,April,Middle East,377.80996999999996,4
+2022,May,Middle East,179.4538,5
+2022,June,Middle East,201.45964,6
+2022,July,Middle East,233.37778,7
+2022,August,Middle East,249.0909,8
+2022,September,Middle East,300.17051000000004,9
+2022,October,Middle East,344.09118,10
+2022,November,Middle East,379.07988,11
+2022,December,Middle East,412.62984,12
+2023,January,Middle East,474.087,1
+2023,February,Middle East,518.058,2
+2023,March,Middle East,720.019,3
+2023,April,Middle East,474.808,4
+2023,May,Middle East,386.603,5
+2023,June,Middle East,455.321,6
+2023,July,Middle East,247.881,7
+2023,August,Middle East,377.362,8
+2023,September,Middle East,445.272,9
+2023,October,Middle East,455.169,10
+2023,November,Middle East,479.744,11
+2023,December,Middle East,562.961,12
+2024,January,Middle East,696.463,1
+2024,February,Middle East,763.433,2
+2024,March,Middle East,874.171,3
+2024,April,Middle East,344.245,4
+2024,May,Middle East,450.14,5
+2024,June,Middle East,513.966,6
+2024,July,Middle East,441.686,7
+2024,August,Middle East,441.954,8
+2024,September,Middle East,466.04,9
+2024,October,Middle East,619.444,10
+2024,November,Middle East,607.053,11
+2024,December,Middle East,666.772,12
+2025,January,Middle East,940.314,1
+2025,February,Middle East,924.764,2
+2025,March,Middle East,787.405,3
+2025,April,Middle East,259.625,4
+2025,May,Middle East,163.113,5
+2025,June,Middle East,411.262,6
+2025,July,Middle East,507.192,7
+2025,August,Middle East,572.319,8
+2025,September,Middle East,637.116,9
+2025,October,Middle East,611.567,10
+2025,November,Middle East,611.861,11
+2025,December,Middle East,704.516,12
+2021,January,Africa,13.246,1
+2021,February,Africa,9.51387,2
+2021,March,Africa,18.754,3
+2021,April,Africa,32.273,4
+2021,May,Africa,16.562,5
+2021,June,Africa,9.557,6
+2021,July,Africa,16.397,7
+2021,August,Africa,10.984,8
+2021,September,Africa,13.648,9
+2021,October,Africa,21.638,10
+2021,November,Africa,31.717,11
+2021,December,Africa,24.809,12
+2022,January,Africa,15.91693,1
+2022,February,Africa,24.27482,2
+2022,March,Africa,58.20468,3
+2022,April,Africa,209.69404999999998,4
+2022,May,Africa,52.05881,5
+2022,June,Africa,42.14465,6
+2022,July,Africa,173.50775,7
+2022,August,Africa,34.529489999999996,8
+2022,September,Africa,54.45653,9
+2022,October,Africa,100.72460000000001,10
+2022,November,Africa,110.46382000000001,11
+2022,December,Africa,156.33945,12
+2023,January,Africa,141.21,1
+2023,February,Africa,144.668,2
+2023,March,Africa,320.884,3
+2023,April,Africa,298.785,4
+2023,May,Africa,74.095,5
+2023,June,Africa,373.785,6
+2023,July,Africa,29.171,7
+2023,August,Africa,68.874,8
+2023,September,Africa,124.254,9
+2023,October,Africa,137.284,10
+2023,November,Africa,127.249,11
+2023,December,Africa,201.598,12
+2024,January,Africa,181.332,1
+2024,February,Africa,178.688,2
+2024,March,Africa,360.467,3
+2024,April,Africa,123.386,4
+2024,May,Africa,97.198,5
+2024,June,Africa,348.912,6
+2024,July,Africa,68.687,7
+2024,August,Africa,86.606,8
+2024,September,Africa,140.773,9
+2024,October,Africa,146.915,10
+2024,November,Africa,166.926,11
+2024,December,Africa,236.373,12
+2025,January,Africa,219.689,1
+2025,February,Africa,238.846,2
+2025,March,Africa,356.667,3
+2025,April,Africa,128.101,4
+2025,May,Africa,26.769,5
+2025,June,Africa,329.829,6
+2025,July,Africa,107.652,7
+2025,August,Africa,145.086,8
+2025,September,Africa,169.055,9
+2025,October,Africa,189.126,10
+2025,November,Africa,216.532,11
+2025,December,Africa,293.916,12
+2021,January,Asia,59.398,1
+2021,February,Asia,46.334,2
+2021,March,Asia,55.803,3
+2021,April,Asia,52.014,4
+2021,May,Asia,47.153,5
+2021,June,Asia,45.826,6
+2021,July,Asia,40.051,7
+2021,August,Asia,49.327,8
+2021,September,Asia,56.647,9
+2021,October,Asia,76.613,10
+2021,November,Asia,83.656,11
+2021,December,Asia,126.467,12
+2022,January,Asia,125.92009,1
+2022,February,Asia,169.29567,2
+2022,March,Asia,309.74917,3
+2022,April,Asia,423.24115,4
+2022,May,Asia,333.90526,5
+2022,June,Asia,160.52657000000002,6
+2022,July,Asia,561.78247,7
+2022,August,Asia,342.63948999999997,8
+2022,September,Asia,571.10082,9
+2022,October,Asia,628.7595200000001,10
+2022,November,Asia,590.97091,11
+2022,December,Asia,673.12301,12
+2023,January,Asia,651.334,1
+2023,February,Asia,678.481,2
+2023,March,Asia,752.286,3
+2023,April,Asia,619.294,4
+2023,May,Asia,386.348,5
+2023,June,Asia,1041.207,6
+2023,July,Asia,231.918,7
+2023,August,Asia,664.573,8
+2023,September,Asia,653.038,9
+2023,October,Asia,740.194,10
+2023,November,Asia,736.017,11
+2023,December,Asia,788.817,12
+2024,January,Asia,737.346,1
+2024,February,Asia,789.298,2
+2024,March,Asia,802.407,3
+2024,April,Asia,712.568,4
+2024,May,Asia,282.17,5
+2024,June,Asia,1041.127,6
+2024,July,Asia,490.138,7
+2024,August,Asia,659.461,8
+2024,September,Asia,698.053,9
+2024,October,Asia,801.277,10
+2024,November,Asia,795.756,11
+2024,December,Asia,932.754,12
+2025,January,Asia,965.703,1
+2025,February,Asia,923.771,2
+2025,March,Asia,754.482,3
+2025,April,Asia,422.409,4
+2025,May,Asia,167.845,5
+2025,June,Asia,985.231,6
+2025,July,Asia,816.233,7
+2025,August,Asia,780.373,8
+2025,September,Asia,774.899,9
+2025,October,Asia,893.334,10
+2025,November,Asia,930.208,11
+2025,December,Asia,1048.539,12
+2021,January,Europe,5.627,1
+2021,February,Europe,3.271,2
+2021,March,Europe,3.598,3
+2021,April,Europe,3.81,4
+2021,May,Europe,3.798,5
+2021,June,Europe,5.692,6
+2021,July,Europe,5.564,7
+2021,August,Europe,10.034,8
+2021,September,Europe,16.107,9
+2021,October,Europe,30.298,10
+2021,November,Europe,41.172,11
+2021,December,Europe,58.903,12
+2022,January,Europe,56.84086,1
+2022,February,Europe,74.04584,2
+2022,March,Europe,80.41105999999999,3
+2022,April,Europe,111.59662,4
+2022,May,Europe,62.18581,5
+2022,June,Europe,26.768369999999997,6
+2022,July,Europe,100.57236,7
+2022,August,Europe,59.46697,8
+2022,September,Europe,93.66542,9
+2022,October,Europe,165.96073,10
+2022,November,Europe,194.75764,11
+2022,December,Europe,264.92447,12
+2023,January,Europe,276.55,1
+2023,February,Europe,286.635,2
+2023,March,Europe,261.419,3
+2023,April,Europe,217.339,4
+2023,May,Europe,102.846,5
+2023,June,Europe,231.698,6
+2023,July,Europe,67.977,7
+2023,August,Europe,139.981,8
+2023,September,Europe,164.654,9
+2023,October,Europe,294.34,10
+2023,November,Europe,299.123,11
+2023,December,Europe,376.671,12
+2024,January,Europe,396.78,1
+2024,February,Europe,446.656,2
+2024,March,Europe,318.37,3
+2024,April,Europe,261.901,4
+2024,May,Europe,168.153,5
+2024,June,Europe,258.292,6
+2024,July,Europe,123.527,7
+2024,August,Europe,141.79,8
+2024,September,Europe,158.461,9
+2024,October,Europe,306.031,10
+2024,November,Europe,355.07,11
+2024,December,Europe,440.907,12
+2025,January,Europe,500.902,1
+2025,February,Europe,464.804,2
+2025,March,Europe,330.194,3
+2025,April,Europe,324.401,4
+2025,May,Europe,75.236,5
+2025,June,Europe,262.446,6
+2025,July,Europe,173.953,7
+2025,August,Europe,200.628,8
+2025,September,Europe,205.876,9
+2025,October,Europe,366.085,10
+2025,November,Europe,462.189,11
+2025,December,Europe,578.459,12
+2021,January,Americas,3.129,1
+2021,February,Americas,1.182,2
+2021,March,Americas,1.698,3
+2021,April,Americas,2.636,4
+2021,May,Americas,2.855,5
+2021,June,Americas,4.172,6
+2021,July,Americas,4.134,7
+2021,August,Americas,5.389,8
+2021,September,Americas,6.797,9
+2021,October,Americas,11.146,10
+2021,November,Americas,16.887,11
+2021,December,Americas,19.978,12
+2022,January,Americas,12.82276,1
+2022,February,Americas,15.84366,2
+2022,March,Americas,27.391099999999998,3
+2022,April,Americas,32.99391000000001,4
+2022,May,Americas,20.37856,5
+2022,June,Americas,14.30176,6
+2022,July,Americas,18.04332,7
+2022,August,Americas,18.79569,8
+2022,September,Americas,18.835069999999998,9
+2022,October,Americas,26.94773,10
+2022,November,Americas,49.72041,11
+2022,December,Americas,58.81962,12
+2023,January,Americas,40.086,1
+2023,February,Americas,35.787,2
+2023,March,Americas,49.826,3
+2023,April,Americas,37.76,4
+2023,May,Americas,28.049,5
+2023,June,Americas,22.717,6
+2023,July,Americas,24.106,7
+2023,August,Americas,32.221,8
+2023,September,Americas,29.727,9
+2023,October,Americas,40.557,10
+2023,November,Americas,55.468,11
+2023,December,Americas,74.147,12
+2024,January,Americas,57.226,1
+2024,February,Americas,60.013,2
+2024,March,Americas,61.711,3
+2024,April,Americas,43.59,4
+2024,May,Americas,32.455,5
+2024,June,Americas,35.715,6
+2024,July,Americas,40.854,7
+2024,August,Americas,35.385,8
+2024,September,Americas,32.117,9
+2024,October,Americas,33.542,10
+2024,November,Americas,69.431,11
+2024,December,Americas,79.534,12
+2025,January,Americas,66.39,1
+2025,February,Americas,52.236,2
+2025,March,Americas,51.338,3
+2025,April,Americas,42.155,4
+2025,May,Americas,21.819,5
+2025,June,Americas,33.227,6
+2025,July,Americas,40.837,7
+2025,August,Americas,39.086,8
+2025,September,Americas,31.009,9
+2025,October,Americas,43.898,10
+2025,November,Americas,60.496,11
+2025,December,Americas,87.225,12
+2021,January,Other,1.735,1
+2021,February,Other,0.272,2
+2021,March,Other,0.338,3
+2021,April,Other,0.316,4
+2021,May,Other,4.46,5
+2021,June,Other,1.24,6
+2021,July,Other,4.428,7
+2021,August,Other,5.787,8
+2021,September,Other,2.16,9
+2021,October,Other,16.489,10
+2021,November,Other,15.183,11
+2021,December,Other,26.611,12
+2022,January,Other,0.305,1
+2022,February,Other,0.438,2
+2022,March,Other,0.579,3
+2022,April,Other,0.504,4
+2022,May,Other,0.419,5
+2022,June,Other,0.226,6
+2022,July,Other,1.33768,7
+2022,August,Other,0.273,8
+2022,September,Other,0.504,9
+2022,October,Other,0.879,10
+2022,November,Other,1.037,11
+2022,December,Other,1.645,12
+2023,January,Other,1.636,1
+2023,February,Other,1.547,2
+2023,March,Other,1.783,3
+2023,April,Other,1.356,4
+2023,May,Other,1.258,5
+2023,June,Other,2.73,6
+2023,July,Other,0.657,7
+2023,August,Other,0.863,8
+2023,September,Other,1.396,9
+2023,October,Other,2.039,10
+2023,November,Other,2.042,11
+2023,December,Other,2.705,12
+2024,January,Other,3.004,1
+2024,February,Other,2.861,2
+2024,March,Other,2.378,3
+2024,April,Other,1.804,4
+2024,May,Other,1.332,5
+2024,June,Other,16.963,6
+2024,July,Other,0.934,7
+2024,August,Other,1.097,8
+2024,September,Other,1.504,9
+2024,October,Other,2.494,10
+2024,November,Other,2.647,11
+2024,December,Other,3.1,12
+2025,January,Other,3.514,1
+2025,February,Other,2.561,2
+2025,March,Other,2.36,3
+2025,April,Other,2.104,4
+2025,May,Other,1.144,5
+2025,June,Other,17.135,6
+2025,July,Other,1.151,7
+2025,August,Other,1.237,8
+2025,September,Other,1.745,9
+2025,October,Other,3.212,10
+2025,November,Other,3.027,11
+2025,December,Other,3.905,12

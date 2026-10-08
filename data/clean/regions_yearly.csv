@@ -1,0 +1,1171 @@
+﻿region,tourism_type,indicator,unit,year,value
+Baha,Inbound,Tourists Number (Overnight Visitors),('000),2021,0.694
+Baha,Inbound,Overnight Stays,('000),2021,5.324
+Baha,Inbound,Tourists Spending,SAR Mn,2021,3.06398998
+Baha,Inbound,Average Length of Stay,Night,2021,7.673635835277189
+Baha,Inbound,Average Spending per Trip,SAR,2021,4416.18
+Baha,Inbound,Average Spending per Night,SAR,2021,575.5
+Baha,Domestic,Tourists Number (Overnight Visitors),('000),2021,1100.265
+Baha,Domestic,Overnight Stays,('000),2021,8743.095
+Baha,Domestic,Tourists Spending,SAR Mn,2021,1411.1798247699999
+Baha,Domestic,Average Length of Stay,Night,2021,7.946353745952762
+Baha,Domestic,Average Spending per Trip,SAR,2021,1282.58
+Baha,Domestic,Average Spending per Night,SAR,2021,161.41
+Baha,Internal,Tourists Number (Overnight Visitors),('000),2021,1100.959
+Baha,Internal,Overnight Stays,('000),2021,8748.419
+Baha,Internal,Tourists Spending,SAR Mn,2021,1414.24381475
+Baha,Internal,Average Length of Stay,Night,2021,7.946181882497105
+Baha,Internal,Average Spending per Trip,SAR,2021,1284.56
+Baha,Internal,Average Spending per Night,SAR,2021,161.66
+Qassim,Inbound,Tourists Number (Overnight Visitors),('000),2021,56.089
+Qassim,Inbound,Overnight Stays,('000),2021,405.06
+Qassim,Inbound,Tourists Spending,SAR Mn,2021,238.56153397999998
+Qassim,Inbound,Average Length of Stay,Night,2021,7.221777552732887
+Qassim,Inbound,Average Spending per Trip,SAR,2021,4253.29
+Qassim,Inbound,Average Spending per Night,SAR,2021,588.95
+Qassim,Domestic,Tourists Number (Overnight Visitors),('000),2021,3767.875
+Qassim,Domestic,Overnight Stays,('000),2021,22722.402
+Qassim,Domestic,Tourists Spending,SAR Mn,2021,3877.24122364
+Qassim,Domestic,Average Length of Stay,Night,2021,6.030561583217066
+Qassim,Domestic,Average Spending per Trip,SAR,2021,1029.03
+Qassim,Domestic,Average Spending per Night,SAR,2021,170.64
+Qassim,Internal,Tourists Number (Overnight Visitors),('000),2021,3823.964
+Qassim,Internal,Overnight Stays,('000),2021,23127.463
+Qassim,Internal,Tourists Spending,SAR Mn,2021,4115.80275762
+Qassim,Internal,Average Length of Stay,Night,2021,6.048033977531753
+Qassim,Internal,Average Spending per Trip,SAR,2021,1076.32
+Qassim,Internal,Average Spending per Night,SAR,2021,177.96
+Assir,Inbound,Tourists Number (Overnight Visitors),('000),2021,20.305
+Assir,Inbound,Overnight Stays,('000),2021,312.222
+Assir,Inbound,Tourists Spending,SAR Mn,2021,105.44933721
+Assir,Inbound,Average Length of Stay,Night,2021,15.376554082845992
+Assir,Inbound,Average Spending per Trip,SAR,2021,5193.25
+Assir,Inbound,Average Spending per Night,SAR,2021,337.74
+Assir,Domestic,Tourists Number (Overnight Visitors),('000),2021,5268.692
+Assir,Domestic,Overnight Stays,('000),2021,42702.697
+Assir,Domestic,Tourists Spending,SAR Mn,2021,8182.991968689999
+Assir,Domestic,Average Length of Stay,Night,2021,8.104990174585325
+Assir,Domestic,Average Spending per Trip,SAR,2021,1553.14
+Assir,Domestic,Average Spending per Night,SAR,2021,191.63
+Assir,Internal,Tourists Number (Overnight Visitors),('000),2021,5288.997
+Assir,Internal,Overnight Stays,('000),2021,43014.919
+Assir,Internal,Tourists Spending,SAR Mn,2021,8288.4413059
+Assir,Internal,Average Length of Stay,Night,2021,8.132906573991436
+Assir,Internal,Average Spending per Trip,SAR,2021,1567.11
+Assir,Internal,Average Spending per Night,SAR,2021,192.69
+Eastern,Inbound,Tourists Number (Overnight Visitors),('000),2021,1187.628
+Eastern,Inbound,Overnight Stays,('000),2021,6314.951
+Eastern,Inbound,Tourists Spending,SAR Mn,2021,2905.68649446
+Eastern,Inbound,Average Length of Stay,Night,2021,5.317278776923937
+Eastern,Inbound,Average Spending per Trip,SAR,2021,2446.63
+Eastern,Inbound,Average Spending per Night,SAR,2021,460.13
+Eastern,Domestic,Tourists Number (Overnight Visitors),('000),2021,9272.899
+Eastern,Domestic,Overnight Stays,('000),2021,49840.252
+Eastern,Domestic,Tourists Spending,SAR Mn,2021,14639.07915535
+Eastern,Domestic,Average Length of Stay,Night,2021,5.3748295697533655
+Eastern,Domestic,Average Spending per Trip,SAR,2021,1578.69
+Eastern,Domestic,Average Spending per Night,SAR,2021,293.72
+Eastern,Internal,Tourists Number (Overnight Visitors),('000),2021,10460.527
+Eastern,Internal,Overnight Stays,('000),2021,56155.203
+Eastern,Internal,Tourists Spending,SAR Mn,2021,17544.76564981
+Eastern,Internal,Average Length of Stay,Night,2021,5.368295582387347
+Eastern,Internal,Average Spending per Trip,SAR,2021,1677.24
+Eastern,Internal,Average Spending per Night,SAR,2021,312.43
+Hail,Inbound,Tourists Number (Overnight Visitors),('000),2021,90.473
+Hail,Inbound,Overnight Stays,('000),2021,2853.671
+Hail,Inbound,Tourists Spending,SAR Mn,2021,355.24960199000003
+Hail,Inbound,Average Length of Stay,Night,2021,31.5416005785582
+Hail,Inbound,Average Spending per Trip,SAR,2021,3926.57
+Hail,Inbound,Average Spending per Night,SAR,2021,124.49
+Hail,Domestic,Tourists Number (Overnight Visitors),('000),2021,1849.642
+Hail,Domestic,Overnight Stays,('000),2021,12937.826
+Hail,Domestic,Tourists Spending,SAR Mn,2021,2667.80265994
+Hail,Domestic,Average Length of Stay,Night,2021,6.994773022177282
+Hail,Domestic,Average Spending per Trip,SAR,2021,1442.33
+Hail,Domestic,Average Spending per Night,SAR,2021,206.2
+Hail,Internal,Tourists Number (Overnight Visitors),('000),2021,1940.115
+Hail,Internal,Overnight Stays,('000),2021,15791.497
+Hail,Internal,Tourists Spending,SAR Mn,2021,3023.05226193
+Hail,Internal,Average Length of Stay,Night,2021,8.139463386025684
+Hail,Internal,Average Spending per Trip,SAR,2021,1558.18
+Hail,Internal,Average Spending per Night,SAR,2021,191.44
+Jazan,Inbound,Tourists Number (Overnight Visitors),('000),2021,4.678
+Jazan,Inbound,Overnight Stays,('000),2021,141.666
+Jazan,Inbound,Tourists Spending,SAR Mn,2021,30.32262781
+Jazan,Inbound,Average Length of Stay,Night,2021,30.285653719237537
+Jazan,Inbound,Average Spending per Trip,SAR,2021,6482.44
+Jazan,Inbound,Average Spending per Night,SAR,2021,214.04
+Jazan,Domestic,Tourists Number (Overnight Visitors),('000),2021,3278.169
+Jazan,Domestic,Overnight Stays,('000),2021,25875.25
+Jazan,Domestic,Tourists Spending,SAR Mn,2021,3772.89186015
+Jazan,Domestic,Average Length of Stay,Night,2021,7.893202053154947
+Jazan,Domestic,Average Spending per Trip,SAR,2021,1150.91
+Jazan,Domestic,Average Spending per Night,SAR,2021,145.81
+Jazan,Internal,Tourists Number (Overnight Visitors),('000),2021,3282.847
+Jazan,Internal,Overnight Stays,('000),2021,26016.916
+Jazan,Internal,Tourists Spending,SAR Mn,2021,3803.21448796
+Jazan,Internal,Average Length of Stay,Night,2021,7.925108562057797
+Jazan,Internal,Average Spending per Trip,SAR,2021,1158.51
+Jazan,Internal,Average Spending per Night,SAR,2021,146.18
+Jouf,Inbound,Tourists Number (Overnight Visitors),('000),2021,17.821
+Jouf,Inbound,Overnight Stays,('000),2021,84.16
+Jouf,Inbound,Tourists Spending,SAR Mn,2021,73.30595343
+Jouf,Inbound,Average Length of Stay,Night,2021,4.7224577907482095
+Jouf,Inbound,Average Spending per Trip,SAR,2021,4113.41
+Jouf,Inbound,Average Spending per Night,SAR,2021,871.03
+Jouf,Domestic,Tourists Number (Overnight Visitors),('000),2021,848.211
+Jouf,Domestic,Overnight Stays,('000),2021,4347.049
+Jouf,Domestic,Tourists Spending,SAR Mn,2021,1618.63433719
+Jouf,Domestic,Average Length of Stay,Night,2021,5.124961853655336
+Jouf,Domestic,Average Spending per Trip,SAR,2021,1908.29
+Jouf,Domestic,Average Spending per Night,SAR,2021,372.35
+Jouf,Internal,Tourists Number (Overnight Visitors),('000),2021,866.032
+Jouf,Internal,Overnight Stays,('000),2021,4431.209
+Jouf,Internal,Tourists Spending,SAR Mn,2021,1691.9402906199998
+Jouf,Internal,Average Length of Stay,Night,2021,5.116679133557367
+Jouf,Internal,Average Spending per Trip,SAR,2021,1953.67
+Jouf,Internal,Average Spending per Night,SAR,2021,381.82
+Madinah,Inbound,Tourists Number (Overnight Visitors),('000),2021,19.39
+Madinah,Inbound,Overnight Stays,('000),2021,252.834
+Madinah,Inbound,Tourists Spending,SAR Mn,2021,72.3653861
+Madinah,Inbound,Average Length of Stay,Night,2021,13.039403773785372
+Madinah,Inbound,Average Spending per Trip,SAR,2021,3732.09
+Madinah,Inbound,Average Spending per Night,SAR,2021,286.22
+Madinah,Domestic,Tourists Number (Overnight Visitors),('000),2021,4364.834
+Madinah,Domestic,Overnight Stays,('000),2021,18414.656
+Madinah,Domestic,Tourists Spending,SAR Mn,2021,5716.93824379
+Madinah,Domestic,Average Length of Stay,Night,2021,4.2188675105767866
+Madinah,Domestic,Average Spending per Trip,SAR,2021,1309.77
+Madinah,Domestic,Average Spending per Night,SAR,2021,310.46
+Madinah,Internal,Tourists Number (Overnight Visitors),('000),2021,4384.224
+Madinah,Internal,Overnight Stays,('000),2021,18667.491
+Madinah,Internal,Tourists Spending,SAR Mn,2021,5789.303629890001
+Madinah,Internal,Average Length of Stay,Night,2021,4.257877939047761
+Madinah,Internal,Average Spending per Trip,SAR,2021,1320.49
+Madinah,Internal,Average Spending per Night,SAR,2021,310.13
+Makkah,Inbound,Tourists Number (Overnight Visitors),('000),2021,688.723
+Makkah,Inbound,Overnight Stays,('000),2021,5891.558
+Makkah,Inbound,Tourists Spending,SAR Mn,2021,2963.8704277399997
+Makkah,Inbound,Average Length of Stay,Night,2021,8.55431664554639
+Makkah,Inbound,Average Spending per Trip,SAR,2021,4303.43
+Makkah,Inbound,Average Spending per Night,SAR,2021,503.07
+Makkah,Domestic,Tourists Number (Overnight Visitors),('000),2021,18475.506
+Makkah,Domestic,Overnight Stays,('000),2021,85255.773
+Makkah,Domestic,Tourists Spending,SAR Mn,2021,31003.03819572
+Makkah,Domestic,Average Length of Stay,Night,2021,4.614529785451248
+Makkah,Domestic,Average Spending per Trip,SAR,2021,1678.06
+Makkah,Domestic,Average Spending per Night,SAR,2021,363.65
+Makkah,Internal,Tourists Number (Overnight Visitors),('000),2021,19164.229
+Makkah,Internal,Overnight Stays,('000),2021,91147.331
+Makkah,Internal,Tourists Spending,SAR Mn,2021,33966.908623459996
+Makkah,Internal,Average Length of Stay,Night,2021,4.756117704440533
+Makkah,Internal,Average Spending per Trip,SAR,2021,1772.41
+Makkah,Internal,Average Spending per Night,SAR,2021,372.66
+Najran,Inbound,Tourists Number (Overnight Visitors),('000),2021,4.072
+Najran,Inbound,Overnight Stays,('000),2021,78.02
+Najran,Inbound,Tourists Spending,SAR Mn,2021,19.31081712
+Najran,Inbound,Average Length of Stay,Night,2021,19.16201420630349
+Najran,Inbound,Average Spending per Trip,SAR,2021,4742.78
+Najran,Inbound,Average Spending per Night,SAR,2021,247.51
+Najran,Domestic,Tourists Number (Overnight Visitors),('000),2021,863.629
+Najran,Domestic,Overnight Stays,('000),2021,8769.53
+Najran,Domestic,Tourists Spending,SAR Mn,2021,2098.35081028
+Najran,Domestic,Average Length of Stay,Night,2021,10.154278672140082
+Najran,Domestic,Average Spending per Trip,SAR,2021,2429.69
+Najran,Domestic,Average Spending per Night,SAR,2021,239.28
+Najran,Internal,Tourists Number (Overnight Visitors),('000),2021,867.701
+Najran,Internal,Overnight Stays,('000),2021,8847.55
+Najran,Internal,Tourists Spending,SAR Mn,2021,2117.6616274000003
+Najran,Internal,Average Length of Stay,Night,2021,10.196546813015644
+Najran,Internal,Average Spending per Trip,SAR,2021,2440.54
+Najran,Internal,Average Spending per Night,SAR,2021,239.35
+Northern,Inbound,Tourists Number (Overnight Visitors),('000),2021,126.378
+Northern,Inbound,Overnight Stays,('000),2021,151.238
+Northern,Inbound,Tourists Spending,SAR Mn,2021,254.79986858
+Northern,Inbound,Average Length of Stay,Night,2021,1.1967123330903853
+Northern,Inbound,Average Spending per Trip,SAR,2021,2016.17
+Northern,Inbound,Average Spending per Night,SAR,2021,1684.76
+Northern,Domestic,Tourists Number (Overnight Visitors),('000),2021,849.661
+Northern,Domestic,Overnight Stays,('000),2021,5609.981
+Northern,Domestic,Tourists Spending,SAR Mn,2021,1801.7530968699998
+Northern,Domestic,Average Length of Stay,Night,2021,6.602611105178702
+Northern,Domestic,Average Spending per Trip,SAR,2021,2120.56
+Northern,Domestic,Average Spending per Night,SAR,2021,321.17
+Northern,Internal,Tourists Number (Overnight Visitors),('000),2021,976.039
+Northern,Internal,Overnight Stays,('000),2021,5761.219
+Northern,Internal,Tourists Spending,SAR Mn,2021,2056.55296545
+Northern,Internal,Average Length of Stay,Night,2021,5.9026525616106875
+Northern,Internal,Average Spending per Trip,SAR,2021,2107.04
+Northern,Internal,Average Spending per Night,SAR,2021,356.96
+Riyadh,Inbound,Tourists Number (Overnight Visitors),('000),2021,1223.406
+Riyadh,Inbound,Overnight Stays,('000),2021,14859.216
+Riyadh,Inbound,Tourists Spending,SAR Mn,2021,7471.70547913
+Riyadh,Inbound,Average Length of Stay,Night,2021,12.145772197848695
+Riyadh,Inbound,Average Spending per Trip,SAR,2021,6107.3
+Riyadh,Inbound,Average Spending per Night,SAR,2021,502.83
+Riyadh,Domestic,Tourists Number (Overnight Visitors),('000),2021,11606.337
+Riyadh,Domestic,Overnight Stays,('000),2021,55439.225
+Riyadh,Domestic,Tourists Spending,SAR Mn,2021,21108.12020501
+Riyadh,Domestic,Average Length of Stay,Night,2021,4.776634073112638
+Riyadh,Domestic,Average Spending per Trip,SAR,2021,1818.67
+Riyadh,Domestic,Average Spending per Night,SAR,2021,380.74
+Riyadh,Internal,Tourists Number (Overnight Visitors),('000),2021,12829.743
+Riyadh,Internal,Overnight Stays,('000),2021,70298.441
+Riyadh,Internal,Tourists Spending,SAR Mn,2021,28579.82568414
+Riyadh,Internal,Average Length of Stay,Night,2021,5.479333318571429
+Riyadh,Internal,Average Spending per Trip,SAR,2021,2227.62
+Riyadh,Internal,Average Spending per Night,SAR,2021,406.55
+Tabuk,Inbound,Tourists Number (Overnight Visitors),('000),2021,37.559
+Tabuk,Inbound,Overnight Stays,('000),2021,421.459
+Tabuk,Inbound,Tourists Spending,SAR Mn,2021,221.85587295
+Tabuk,Inbound,Average Length of Stay,Night,2021,11.221350441165372
+Tabuk,Inbound,Average Spending per Trip,SAR,2021,5906.91
+Tabuk,Inbound,Average Spending per Night,SAR,2021,526.4
+Tabuk,Domestic,Tourists Number (Overnight Visitors),('000),2021,2288.178
+Tabuk,Domestic,Overnight Stays,('000),2021,12673.468
+Tabuk,Domestic,Tourists Spending,SAR Mn,2021,4286.09144121
+Tabuk,Domestic,Average Length of Stay,Night,2021,5.538672190407392
+Tabuk,Domestic,Average Spending per Trip,SAR,2021,1873.15
+Tabuk,Domestic,Average Spending per Night,SAR,2021,338.19
+Tabuk,Internal,Tourists Number (Overnight Visitors),('000),2021,2325.737
+Tabuk,Internal,Overnight Stays,('000),2021,13094.927
+Tabuk,Internal,Tourists Spending,SAR Mn,2021,4507.94731416
+Tabuk,Internal,Average Length of Stay,Night,2021,5.630442679437202
+Tabuk,Internal,Average Spending per Trip,SAR,2021,1938.29
+Tabuk,Internal,Average Spending per Night,SAR,2021,344.25
+Baha,Inbound,Tourists Number (Overnight Visitors),('000),2022,4.167
+Baha,Inbound,Overnight Stays,('000),2022,41.1
+Baha,Inbound,Tourists Spending,SAR Mn,2022,8.88762959
+Baha,Inbound,Average Length of Stay,Night,2022,9.86293395221978
+Baha,Inbound,Average Spending per Trip,SAR,2022,2132.8
+Baha,Inbound,Average Spending per Night,SAR,2022,216.24
+Baha,Domestic,Tourists Number (Overnight Visitors),('000),2022,1021.043
+Baha,Domestic,Overnight Stays,('000),2022,6622.833
+Baha,Domestic,Tourists Spending,SAR Mn,2022,1000.44905972
+Baha,Domestic,Average Length of Stay,Night,2022,6.486340729651191
+Baha,Domestic,Average Spending per Trip,SAR,2022,979.83
+Baha,Domestic,Average Spending per Night,SAR,2022,151.06
+Baha,Internal,Tourists Number (Overnight Visitors),('000),2022,1025.21
+Baha,Internal,Overnight Stays,('000),2022,6663.933
+Baha,Internal,Tourists Spending,SAR Mn,2022,1009.33668931
+Baha,Internal,Average Length of Stay,Night,2022,6.500065371044322
+Baha,Internal,Average Spending per Trip,SAR,2022,984.52
+Baha,Internal,Average Spending per Night,SAR,2022,151.46
+Qassim,Inbound,Tourists Number (Overnight Visitors),('000),2022,201.893
+Qassim,Inbound,Overnight Stays,('000),2022,1899.103
+Qassim,Inbound,Tourists Spending,SAR Mn,2022,636.47360191
+Qassim,Inbound,Average Length of Stay,Night,2022,9.40648488312095
+Qassim,Inbound,Average Spending per Trip,SAR,2022,3152.53
+Qassim,Inbound,Average Spending per Night,SAR,2022,335.14
+Qassim,Domestic,Tourists Number (Overnight Visitors),('000),2022,4054.065
+Qassim,Domestic,Overnight Stays,('000),2022,19497.723
+Qassim,Domestic,Tourists Spending,SAR Mn,2022,4478.6584908
+Qassim,Domestic,Average Length of Stay,Night,2022,4.809425407855351
+Qassim,Domestic,Average Spending per Trip,SAR,2022,1104.73
+Qassim,Domestic,Average Spending per Night,SAR,2022,229.7
+Qassim,Internal,Tourists Number (Overnight Visitors),('000),2022,4255.958
+Qassim,Internal,Overnight Stays,('000),2022,21396.826
+Qassim,Internal,Tourists Spending,SAR Mn,2022,5115.13209271
+Qassim,Internal,Average Length of Stay,Night,2022,5.027499459934344
+Qassim,Internal,Average Spending per Trip,SAR,2022,1201.88
+Qassim,Internal,Average Spending per Night,SAR,2022,239.06
+Assir,Inbound,Tourists Number (Overnight Visitors),('000),2022,74.062
+Assir,Inbound,Overnight Stays,('000),2022,1666.469
+Assir,Inbound,Tourists Spending,SAR Mn,2022,360.5895425
+Assir,Inbound,Average Length of Stay,Night,2022,22.50109464795112
+Assir,Inbound,Average Spending per Trip,SAR,2022,4868.77
+Assir,Inbound,Average Spending per Night,SAR,2022,216.38
+Assir,Domestic,Tourists Number (Overnight Visitors),('000),2022,5971.17
+Assir,Domestic,Overnight Stays,('000),2022,39078.638
+Assir,Domestic,Tourists Spending,SAR Mn,2022,7067.865544609999
+Assir,Domestic,Average Length of Stay,Night,2022,6.544552837517919
+Assir,Domestic,Average Spending per Trip,SAR,2022,1183.67
+Assir,Domestic,Average Spending per Night,SAR,2022,180.86
+Assir,Internal,Tourists Number (Overnight Visitors),('000),2022,6045.232
+Assir,Internal,Overnight Stays,('000),2022,40745.106
+Assir,Internal,Tourists Spending,SAR Mn,2022,7428.45508711
+Assir,Internal,Average Length of Stay,Night,2022,6.7400405030538515
+Assir,Internal,Average Spending per Trip,SAR,2022,1228.81
+Assir,Internal,Average Spending per Night,SAR,2022,182.32
+Eastern,Inbound,Tourists Number (Overnight Visitors),('000),2022,3998.327
+Eastern,Inbound,Overnight Stays,('000),2022,22678.425
+Eastern,Inbound,Tourists Spending,SAR Mn,2022,9160.00494242
+Eastern,Inbound,Average Length of Stay,Night,2022,5.671979053346036
+Eastern,Inbound,Average Spending per Trip,SAR,2022,2290.96
+Eastern,Inbound,Average Spending per Night,SAR,2022,403.91
+Eastern,Domestic,Tourists Number (Overnight Visitors),('000),2022,11139.453
+Eastern,Domestic,Overnight Stays,('000),2022,47441.446
+Eastern,Domestic,Tourists Spending,SAR Mn,2022,12683.28681781
+Eastern,Domestic,Average Length of Stay,Night,2022,4.258866782156601
+Eastern,Domestic,Average Spending per Trip,SAR,2022,1138.59
+Eastern,Domestic,Average Spending per Night,SAR,2022,267.35
+Eastern,Internal,Tourists Number (Overnight Visitors),('000),2022,15137.78
+Eastern,Internal,Overnight Stays,('000),2022,70119.872
+Eastern,Internal,Tourists Spending,SAR Mn,2022,21843.29176023
+Eastern,Internal,Average Length of Stay,Night,2022,4.632110722066185
+Eastern,Internal,Average Spending per Trip,SAR,2022,1442.97
+Eastern,Internal,Average Spending per Night,SAR,2022,311.51
+Hail,Inbound,Tourists Number (Overnight Visitors),('000),2022,135.822
+Hail,Inbound,Overnight Stays,('000),2022,5740.507
+Hail,Inbound,Tourists Spending,SAR Mn,2022,378.42391244
+Hail,Inbound,Average Length of Stay,Night,2022,42.264985259291635
+Hail,Inbound,Average Spending per Trip,SAR,2022,2786.18
+Hail,Inbound,Average Spending per Night,SAR,2022,65.92
+Hail,Domestic,Tourists Number (Overnight Visitors),('000),2022,2148.543
+Hail,Domestic,Overnight Stays,('000),2022,13786.409
+Hail,Domestic,Tourists Spending,SAR Mn,2022,4007.8094346999997
+Hail,Domestic,Average Length of Stay,Night,2022,6.416631873021296
+Hail,Domestic,Average Spending per Trip,SAR,2022,1865.36
+Hail,Domestic,Average Spending per Night,SAR,2022,290.71
+Hail,Internal,Tourists Number (Overnight Visitors),('000),2022,2284.365
+Hail,Internal,Overnight Stays,('000),2022,19526.916
+Hail,Internal,Tourists Spending,SAR Mn,2022,4386.233347140001
+Hail,Internal,Average Length of Stay,Night,2022,8.548072680169081
+Hail,Internal,Average Spending per Trip,SAR,2022,1920.11
+Hail,Internal,Average Spending per Night,SAR,2022,224.62
+Jazan,Inbound,Tourists Number (Overnight Visitors),('000),2022,35.491
+Jazan,Inbound,Overnight Stays,('000),2022,2090.134
+Jazan,Inbound,Tourists Spending,SAR Mn,2022,174.89544988
+Jazan,Inbound,Average Length of Stay,Night,2022,58.89204998592178
+Jazan,Inbound,Average Spending per Trip,SAR,2022,4927.89
+Jazan,Inbound,Average Spending per Night,SAR,2022,83.68
+Jazan,Domestic,Tourists Number (Overnight Visitors),('000),2022,2487.702
+Jazan,Domestic,Overnight Stays,('000),2022,13020.938
+Jazan,Domestic,Tourists Spending,SAR Mn,2022,2339.0477823
+Jazan,Domestic,Average Length of Stay,Night,2022,5.2341227634534215
+Jazan,Domestic,Average Spending per Trip,SAR,2022,940.24
+Jazan,Domestic,Average Spending per Night,SAR,2022,179.64
+Jazan,Internal,Tourists Number (Overnight Visitors),('000),2022,2523.193
+Jazan,Internal,Overnight Stays,('000),2022,15111.072
+Jazan,Internal,Tourists Spending,SAR Mn,2022,2513.94323218
+Jazan,Internal,Average Length of Stay,Night,2022,5.988868829218608
+Jazan,Internal,Average Spending per Trip,SAR,2022,996.33
+Jazan,Internal,Average Spending per Night,SAR,2022,166.36
+Jouf,Inbound,Tourists Number (Overnight Visitors),('000),2022,52.424
+Jouf,Inbound,Overnight Stays,('000),2022,886.67
+Jouf,Inbound,Tourists Spending,SAR Mn,2022,170.82374759
+Jouf,Inbound,Average Length of Stay,Night,2022,16.913423485606007
+Jouf,Inbound,Average Spending per Trip,SAR,2022,3258.5
+Jouf,Inbound,Average Spending per Night,SAR,2022,192.66
+Jouf,Domestic,Tourists Number (Overnight Visitors),('000),2022,1252.504
+Jouf,Domestic,Overnight Stays,('000),2022,5941.44
+Jouf,Domestic,Tourists Spending,SAR Mn,2022,2620.71811937
+Jouf,Domestic,Average Length of Stay,Night,2022,4.743649250003887
+Jouf,Domestic,Average Spending per Trip,SAR,2022,2092.38
+Jouf,Domestic,Average Spending per Night,SAR,2022,441.09
+Jouf,Internal,Tourists Number (Overnight Visitors),('000),2022,1304.928
+Jouf,Internal,Overnight Stays,('000),2022,6828.11
+Jouf,Internal,Tourists Spending,SAR Mn,2022,2791.54186696
+Jouf,Internal,Average Length of Stay,Night,2022,5.232556505227171
+Jouf,Internal,Average Spending per Trip,SAR,2022,2139.23
+Jouf,Internal,Average Spending per Night,SAR,2022,408.83
+Madinah,Inbound,Tourists Number (Overnight Visitors),('000),2022,120.863
+Madinah,Inbound,Overnight Stays,('000),2022,2484.047
+Madinah,Inbound,Tourists Spending,SAR Mn,2022,661.90726062
+Madinah,Inbound,Average Length of Stay,Night,2022,20.552613729490826
+Madinah,Inbound,Average Spending per Trip,SAR,2022,5476.52
+Madinah,Inbound,Average Spending per Night,SAR,2022,266.46
+Madinah,Domestic,Tourists Number (Overnight Visitors),('000),2022,6220.574
+Madinah,Domestic,Overnight Stays,('000),2022,24481.463
+Madinah,Domestic,Tourists Spending,SAR Mn,2022,7571.59844517
+Madinah,Domestic,Average Length of Stay,Night,2022,3.93556338210381
+Madinah,Domestic,Average Spending per Trip,SAR,2022,1217.19
+Madinah,Domestic,Average Spending per Night,SAR,2022,309.28
+Madinah,Internal,Tourists Number (Overnight Visitors),('000),2022,6341.437
+Madinah,Internal,Overnight Stays,('000),2022,26965.511
+Madinah,Internal,Tourists Spending,SAR Mn,2022,8233.50570579
+Madinah,Internal,Average Length of Stay,Night,2022,4.252271414174706
+Madinah,Internal,Average Spending per Trip,SAR,2022,1298.37
+Madinah,Internal,Average Spending per Night,SAR,2022,305.33
+Makkah,Inbound,Tourists Number (Overnight Visitors),('000),2022,9412.293
+Makkah,Inbound,Overnight Stays,('000),2022,188810.505
+Makkah,Inbound,Tourists Spending,SAR Mn,2022,74445.40836510001
+Makkah,Inbound,Average Length of Stay,Night,2022,20.059991148485107
+Makkah,Inbound,Average Spending per Trip,SAR,2022,7909.38
+Makkah,Inbound,Average Spending per Night,SAR,2022,394.29
+Makkah,Domestic,Tourists Number (Overnight Visitors),('000),2022,22663.371
+Makkah,Domestic,Overnight Stays,('000),2022,99555.961
+Makkah,Domestic,Tourists Spending,SAR Mn,2022,30647.24414371
+Makkah,Domestic,Average Length of Stay,Night,2022,4.392813455545163
+Makkah,Domestic,Average Spending per Trip,SAR,2022,1352.28
+Makkah,Domestic,Average Spending per Night,SAR,2022,307.84
+Makkah,Internal,Tourists Number (Overnight Visitors),('000),2022,32075.664
+Makkah,Internal,Overnight Stays,('000),2022,288366.466
+Makkah,Internal,Tourists Spending,SAR Mn,2022,105092.65250881
+Makkah,Internal,Average Length of Stay,Night,2022,8.990194881696853
+Makkah,Internal,Average Spending per Trip,SAR,2022,3276.4
+Makkah,Internal,Average Spending per Night,SAR,2022,364.44
+Najran,Inbound,Tourists Number (Overnight Visitors),('000),2022,7.138
+Najran,Inbound,Overnight Stays,('000),2022,99.843
+Najran,Inbound,Tourists Spending,SAR Mn,2022,21.213384559999998
+Najran,Inbound,Average Length of Stay,Night,2022,13.987401736926964
+Najran,Inbound,Average Spending per Trip,SAR,2022,2971.86
+Najran,Inbound,Average Spending per Night,SAR,2022,212.47
+Najran,Domestic,Tourists Number (Overnight Visitors),('000),2022,1109.519
+Najran,Domestic,Overnight Stays,('000),2022,8809.92
+Najran,Domestic,Tourists Spending,SAR Mn,2022,1943.28417531
+Najran,Domestic,Average Length of Stay,Night,2022,7.940306095595693
+Najran,Domestic,Average Spending per Trip,SAR,2022,1751.47
+Najran,Domestic,Average Spending per Night,SAR,2022,220.58
+Najran,Internal,Tourists Number (Overnight Visitors),('000),2022,1116.657
+Najran,Internal,Overnight Stays,('000),2022,8909.764
+Najran,Internal,Tourists Spending,SAR Mn,2022,1964.4975598699998
+Najran,Internal,Average Length of Stay,Night,2022,7.978961339468489
+Najran,Internal,Average Spending per Trip,SAR,2022,1759.27
+Najran,Internal,Average Spending per Night,SAR,2022,220.49
+Northern,Inbound,Tourists Number (Overnight Visitors),('000),2022,598.483
+Northern,Inbound,Overnight Stays,('000),2022,1116.186
+Northern,Inbound,Tourists Spending,SAR Mn,2022,434.84453773
+Northern,Inbound,Average Length of Stay,Night,2022,1.865024075170261
+Northern,Inbound,Average Spending per Trip,SAR,2022,726.58
+Northern,Inbound,Average Spending per Night,SAR,2022,389.58
+Northern,Domestic,Tourists Number (Overnight Visitors),('000),2022,1014.636
+Northern,Domestic,Overnight Stays,('000),2022,5276.428
+Northern,Domestic,Tourists Spending,SAR Mn,2022,2573.83979153
+Northern,Domestic,Average Length of Stay,Night,2022,5.200315807978489
+Northern,Domestic,Average Spending per Trip,SAR,2022,2536.71
+Northern,Domestic,Average Spending per Night,SAR,2022,487.8
+Northern,Internal,Tourists Number (Overnight Visitors),('000),2022,1613.119
+Northern,Internal,Overnight Stays,('000),2022,6392.613
+Northern,Internal,Tourists Spending,SAR Mn,2022,3008.68432926
+Northern,Internal,Average Length of Stay,Night,2022,3.962889500198166
+Northern,Internal,Average Spending per Trip,SAR,2022,1865.13
+Northern,Internal,Average Spending per Night,SAR,2022,470.65
+Riyadh,Inbound,Tourists Number (Overnight Visitors),('000),2022,1910.631
+Riyadh,Inbound,Overnight Stays,('000),2022,41956.524
+Riyadh,Inbound,Tourists Spending,SAR Mn,2022,11535.26520449
+Riyadh,Inbound,Average Length of Stay,Night,2022,21.95950745555818
+Riyadh,Inbound,Average Spending per Trip,SAR,2022,6037.41
+Riyadh,Inbound,Average Spending per Night,SAR,2022,274.93
+Riyadh,Domestic,Tourists Number (Overnight Visitors),('000),2022,16143.782
+Riyadh,Domestic,Overnight Stays,('000),2022,72030.134
+Riyadh,Domestic,Tourists Spending,SAR Mn,2022,24947.07779758
+Riyadh,Domestic,Average Length of Stay,Night,2022,4.461788089155812
+Riyadh,Domestic,Average Spending per Trip,SAR,2022,1545.31
+Riyadh,Domestic,Average Spending per Night,SAR,2022,346.34
+Riyadh,Internal,Tourists Number (Overnight Visitors),('000),2022,18054.413
+Riyadh,Internal,Overnight Stays,('000),2022,113986.658
+Riyadh,Internal,Tourists Spending,SAR Mn,2022,36482.343002069996
+Riyadh,Internal,Average Length of Stay,Night,2022,6.31350660326687
+Riyadh,Internal,Average Spending per Trip,SAR,2022,2020.69
+Riyadh,Internal,Average Spending per Night,SAR,2022,320.06
+Tabuk,Inbound,Tourists Number (Overnight Visitors),('000),2022,86.267
+Tabuk,Inbound,Overnight Stays,('000),2022,1258.669
+Tabuk,Inbound,Tourists Spending,SAR Mn,2022,305.84763633
+Tabuk,Inbound,Average Length of Stay,Night,2022,14.590340492218374
+Tabuk,Inbound,Average Spending per Trip,SAR,2022,3545.35
+Tabuk,Inbound,Average Spending per Night,SAR,2022,242.99
+Tabuk,Domestic,Tourists Number (Overnight Visitors),('000),2022,2610.139
+Tabuk,Domestic,Overnight Stays,('000),2022,14063.06
+Tabuk,Domestic,Tourists Spending,SAR Mn,2022,5378.33666197
+Tabuk,Domestic,Average Length of Stay,Night,2022,5.387858512967285
+Tabuk,Domestic,Average Spending per Trip,SAR,2022,2060.56
+Tabuk,Domestic,Average Spending per Night,SAR,2022,382.44
+Tabuk,Internal,Tourists Number (Overnight Visitors),('000),2022,2696.406
+Tabuk,Internal,Overnight Stays,('000),2022,15321.728
+Tabuk,Internal,Tourists Spending,SAR Mn,2022,5684.184298300001
+Tabuk,Internal,Average Length of Stay,Night,2022,5.682277351097711
+Tabuk,Internal,Average Spending per Trip,SAR,2022,2108.06
+Tabuk,Internal,Average Spending per Night,SAR,2022,370.99
+Baha,Inbound,Tourists Number (Overnight Visitors),('000),2023,16.257
+Baha,Inbound,Overnight Stays,('000),2023,110.302
+Baha,Inbound,Tourists Spending,SAR Mn,2023,43.30721082
+Baha,Inbound,Average Length of Stay,Night,2023,6.784892661622686
+Baha,Inbound,Average Spending per Trip,SAR,2023,2663.91
+Baha,Inbound,Average Spending per Night,SAR,2023,392.62
+Baha,Domestic,Tourists Number (Overnight Visitors),('000),2023,1070.829
+Baha,Domestic,Overnight Stays,('000),2023,7633.181
+Baha,Domestic,Tourists Spending,SAR Mn,2023,1237.2450740699999
+Baha,Domestic,Average Length of Stay,Night,2023,7.128291258454898
+Baha,Domestic,Average Spending per Trip,SAR,2023,1155.41
+Baha,Domestic,Average Spending per Night,SAR,2023,162.09
+Baha,Internal,Tourists Number (Overnight Visitors),('000),2023,1087.086
+Baha,Internal,Overnight Stays,('000),2023,7743.483
+Baha,Internal,Tourists Spending,SAR Mn,2023,1280.55228489
+Baha,Internal,Average Length of Stay,Night,2023,7.123155849675187
+Baha,Internal,Average Spending per Trip,SAR,2023,1177.97
+Baha,Internal,Average Spending per Night,SAR,2023,165.37
+Qassim,Inbound,Tourists Number (Overnight Visitors),('000),2023,126.253
+Qassim,Inbound,Overnight Stays,('000),2023,813.964
+Qassim,Inbound,Tourists Spending,SAR Mn,2023,288.31299348000005
+Qassim,Inbound,Average Length of Stay,Night,2023,6.447086405867584
+Qassim,Inbound,Average Spending per Trip,SAR,2023,2283.61
+Qassim,Inbound,Average Spending per Night,SAR,2023,354.21
+Qassim,Domestic,Tourists Number (Overnight Visitors),('000),2023,4564.532
+Qassim,Domestic,Overnight Stays,('000),2023,27272.208
+Qassim,Domestic,Tourists Spending,SAR Mn,2023,5654.113073060001
+Qassim,Domestic,Average Length of Stay,Night,2023,5.974809246599651
+Qassim,Domestic,Average Spending per Trip,SAR,2023,1238.71
+Qassim,Domestic,Average Spending per Night,SAR,2023,207.32
+Qassim,Internal,Tourists Number (Overnight Visitors),('000),2023,4690.785
+Qassim,Internal,Overnight Stays,('000),2023,28086.172
+Qassim,Internal,Tourists Spending,SAR Mn,2023,5942.42606654
+Qassim,Internal,Average Length of Stay,Night,2023,5.987520638869613
+Qassim,Internal,Average Spending per Trip,SAR,2023,1266.83
+Qassim,Internal,Average Spending per Night,SAR,2023,211.58
+Assir,Inbound,Tourists Number (Overnight Visitors),('000),2023,186.905
+Assir,Inbound,Overnight Stays,('000),2023,3062.52
+Assir,Inbound,Tourists Spending,SAR Mn,2023,823.07158966
+Assir,Inbound,Average Length of Stay,Night,2023,16.38543645167331
+Assir,Inbound,Average Spending per Trip,SAR,2023,4403.69
+Assir,Inbound,Average Spending per Night,SAR,2023,268.76
+Assir,Domestic,Tourists Number (Overnight Visitors),('000),2023,6906.088
+Assir,Domestic,Overnight Stays,('000),2023,61405.365
+Assir,Domestic,Tourists Spending,SAR Mn,2023,9534.90382601
+Assir,Domestic,Average Length of Stay,Night,2023,8.891483137776408
+Assir,Domestic,Average Spending per Trip,SAR,2023,1380.65
+Assir,Domestic,Average Spending per Night,SAR,2023,155.28
+Assir,Internal,Tourists Number (Overnight Visitors),('000),2023,7092.993
+Assir,Internal,Overnight Stays,('000),2023,64467.885
+Assir,Internal,Tourists Spending,SAR Mn,2023,10357.97541567
+Assir,Internal,Average Length of Stay,Night,2023,9.08895370402875
+Assir,Internal,Average Spending per Trip,SAR,2023,1460.31
+Assir,Internal,Average Spending per Night,SAR,2023,160.67
+Eastern,Inbound,Tourists Number (Overnight Visitors),('000),2023,5667.364
+Eastern,Inbound,Overnight Stays,('000),2023,26768.74
+Eastern,Inbound,Tourists Spending,SAR Mn,2023,11037.346611620002
+Eastern,Inbound,Average Length of Stay,Night,2023,4.72331404864766
+Eastern,Inbound,Average Spending per Trip,SAR,2023,1947.53
+Eastern,Inbound,Average Spending per Night,SAR,2023,412.32
+Eastern,Domestic,Tourists Number (Overnight Visitors),('000),2023,13457.364
+Eastern,Domestic,Overnight Stays,('000),2023,82944.241
+Eastern,Domestic,Tourists Spending,SAR Mn,2023,16791.92335886
+Eastern,Domestic,Average Length of Stay,Night,2023,6.16348350241548
+Eastern,Domestic,Average Spending per Trip,SAR,2023,1247.79
+Eastern,Domestic,Average Spending per Night,SAR,2023,202.45
+Eastern,Internal,Tourists Number (Overnight Visitors),('000),2023,19124.728
+Eastern,Internal,Overnight Stays,('000),2023,109712.981
+Eastern,Internal,Tourists Spending,SAR Mn,2023,27829.26997048
+Eastern,Internal,Average Length of Stay,Night,2023,5.736708046252998
+Eastern,Internal,Average Spending per Trip,SAR,2023,1455.15
+Eastern,Internal,Average Spending per Night,SAR,2023,253.66
+Hail,Inbound,Tourists Number (Overnight Visitors),('000),2023,357.82
+Hail,Inbound,Overnight Stays,('000),2023,17610.003
+Hail,Inbound,Tourists Spending,SAR Mn,2023,2273.06840856
+Hail,Inbound,Average Length of Stay,Night,2023,49.214697333855014
+Hail,Inbound,Average Spending per Trip,SAR,2023,6352.55
+Hail,Inbound,Average Spending per Night,SAR,2023,129.08
+Hail,Domestic,Tourists Number (Overnight Visitors),('000),2023,1835.817
+Hail,Domestic,Overnight Stays,('000),2023,12808.484
+Hail,Domestic,Tourists Spending,SAR Mn,2023,2780.22060552
+Hail,Domestic,Average Length of Stay,Night,2023,6.9769938942715966
+Hail,Domestic,Average Spending per Trip,SAR,2023,1514.43
+Hail,Domestic,Average Spending per Night,SAR,2023,217.06
+Hail,Internal,Tourists Number (Overnight Visitors),('000),2023,2193.637
+Hail,Internal,Overnight Stays,('000),2023,30418.487
+Hail,Internal,Tourists Spending,SAR Mn,2023,5053.28901408
+Hail,Internal,Average Length of Stay,Night,2023,13.866691252928357
+Hail,Internal,Average Spending per Trip,SAR,2023,2303.61
+Hail,Internal,Average Spending per Night,SAR,2023,166.13
+Jazan,Inbound,Tourists Number (Overnight Visitors),('000),2023,14.85
+Jazan,Inbound,Overnight Stays,('000),2023,120.166
+Jazan,Inbound,Tourists Spending,SAR Mn,2023,45.99185106
+Jazan,Inbound,Average Length of Stay,Night,2023,8.091986531986532
+Jazan,Inbound,Average Spending per Trip,SAR,2023,3097.09
+Jazan,Inbound,Average Spending per Night,SAR,2023,382.74
+Jazan,Domestic,Tourists Number (Overnight Visitors),('000),2023,2922.882
+Jazan,Domestic,Overnight Stays,('000),2023,19679.302
+Jazan,Domestic,Tourists Spending,SAR Mn,2023,3715.94603406
+Jazan,Domestic,Average Length of Stay,Night,2023,6.732841763711296
+Jazan,Domestic,Average Spending per Trip,SAR,2023,1271.33
+Jazan,Domestic,Average Spending per Night,SAR,2023,188.83
+Jazan,Internal,Tourists Number (Overnight Visitors),('000),2023,2937.732
+Jazan,Internal,Overnight Stays,('000),2023,19799.468
+Jazan,Internal,Tourists Spending,SAR Mn,2023,3761.93788512
+Jazan,Internal,Average Length of Stay,Night,2023,6.739712131671643
+Jazan,Internal,Average Spending per Trip,SAR,2023,1280.56
+Jazan,Internal,Average Spending per Night,SAR,2023,190.0
+Jouf,Inbound,Tourists Number (Overnight Visitors),('000),2023,196.708
+Jouf,Inbound,Overnight Stays,('000),2023,2342.956
+Jouf,Inbound,Tourists Spending,SAR Mn,2023,437.53049154
+Jouf,Inbound,Average Length of Stay,Night,2023,11.910832299652277
+Jouf,Inbound,Average Spending per Trip,SAR,2023,2224.26
+Jouf,Inbound,Average Spending per Night,SAR,2023,186.74
+Jouf,Domestic,Tourists Number (Overnight Visitors),('000),2023,1138.877
+Jouf,Domestic,Overnight Stays,('000),2023,8624.63
+Jouf,Domestic,Tourists Spending,SAR Mn,2023,1683.14744781
+Jouf,Domestic,Average Length of Stay,Night,2023,7.572924907606352
+Jouf,Domestic,Average Spending per Trip,SAR,2023,1477.9
+Jouf,Domestic,Average Spending per Night,SAR,2023,195.16
+Jouf,Internal,Tourists Number (Overnight Visitors),('000),2023,1335.585
+Jouf,Internal,Overnight Stays,('000),2023,10967.586
+Jouf,Internal,Tourists Spending,SAR Mn,2023,2120.67793935
+Jouf,Internal,Average Length of Stay,Night,2023,8.211821785958962
+Jouf,Internal,Average Spending per Trip,SAR,2023,1587.83
+Jouf,Internal,Average Spending per Night,SAR,2023,193.36
+Madinah,Inbound,Tourists Number (Overnight Visitors),('000),2023,321.068
+Madinah,Inbound,Overnight Stays,('000),2023,4666.576
+Madinah,Inbound,Tourists Spending,SAR Mn,2023,1337.47973152
+Madinah,Inbound,Average Length of Stay,Night,2023,14.534540969514246
+Madinah,Inbound,Average Spending per Trip,SAR,2023,4165.72
+Madinah,Inbound,Average Spending per Night,SAR,2023,286.61
+Madinah,Domestic,Tourists Number (Overnight Visitors),('000),2023,6003.2
+Madinah,Domestic,Overnight Stays,('000),2023,27438.172
+Madinah,Domestic,Tourists Spending,SAR Mn,2023,6265.36354775
+Madinah,Domestic,Average Length of Stay,Night,2023,4.570591018123667
+Madinah,Domestic,Average Spending per Trip,SAR,2023,1043.67
+Madinah,Domestic,Average Spending per Night,SAR,2023,228.34
+Madinah,Internal,Tourists Number (Overnight Visitors),('000),2023,6324.268
+Madinah,Internal,Overnight Stays,('000),2023,32104.748
+Madinah,Internal,Tourists Spending,SAR Mn,2023,7602.8432792700005
+Madinah,Internal,Average Length of Stay,Night,2023,5.07643698843882
+Madinah,Internal,Average Spending per Trip,SAR,2023,1202.17
+Madinah,Internal,Average Spending per Night,SAR,2023,236.81
+Makkah,Inbound,Tourists Number (Overnight Visitors),('000),2023,17014.574
+Makkah,Inbound,Overnight Stays,('000),2023,316400.276
+Makkah,Inbound,Tourists Spending,SAR Mn,2023,111487.23856186
+Makkah,Inbound,Average Length of Stay,Night,2023,18.595838837928003
+Makkah,Inbound,Average Spending per Trip,SAR,2023,6552.46
+Makkah,Inbound,Average Spending per Night,SAR,2023,352.36
+Makkah,Domestic,Tourists Number (Overnight Visitors),('000),2023,22625.01
+Makkah,Domestic,Overnight Stays,('000),2023,113133.51
+Makkah,Domestic,Tourists Spending,SAR Mn,2023,29941.07195966
+Makkah,Domestic,Average Length of Stay,Night,2023,5.000373922486664
+Makkah,Domestic,Average Spending per Trip,SAR,2023,1323.36
+Makkah,Domestic,Average Spending per Night,SAR,2023,264.65
+Makkah,Internal,Tourists Number (Overnight Visitors),('000),2023,39639.584
+Makkah,Internal,Overnight Stays,('000),2023,429533.786
+Makkah,Internal,Tourists Spending,SAR Mn,2023,141428.31052151998
+Makkah,Internal,Average Length of Stay,Night,2023,10.835981174777213
+Makkah,Internal,Average Spending per Trip,SAR,2023,3567.86
+Makkah,Internal,Average Spending per Night,SAR,2023,329.26
+Najran,Inbound,Tourists Number (Overnight Visitors),('000),2023,17.39
+Najran,Inbound,Overnight Stays,('000),2023,163.536
+Najran,Inbound,Tourists Spending,SAR Mn,2023,42.210583390000004
+Najran,Inbound,Average Length of Stay,Night,2023,9.404025301897642
+Najran,Inbound,Average Spending per Trip,SAR,2023,2427.29
+Najran,Inbound,Average Spending per Night,SAR,2023,258.11
+Najran,Domestic,Tourists Number (Overnight Visitors),('000),2023,1160.482
+Najran,Domestic,Overnight Stays,('000),2023,10032.762
+Najran,Domestic,Tourists Spending,SAR Mn,2023,2041.29127746
+Najran,Domestic,Average Length of Stay,Night,2023,8.645340470597562
+Najran,Domestic,Average Spending per Trip,SAR,2023,1759.0
+Najran,Domestic,Average Spending per Night,SAR,2023,203.46
+Najran,Internal,Tourists Number (Overnight Visitors),('000),2023,1177.872
+Najran,Internal,Overnight Stays,('000),2023,10196.298
+Najran,Internal,Tourists Spending,SAR Mn,2023,2083.50186085
+Najran,Internal,Average Length of Stay,Night,2023,8.656541627613187
+Najran,Internal,Average Spending per Trip,SAR,2023,1768.87
+Najran,Internal,Average Spending per Night,SAR,2023,204.34
+Northern,Inbound,Tourists Number (Overnight Visitors),('000),2023,356.241
+Northern,Inbound,Overnight Stays,('000),2023,2084.312
+Northern,Inbound,Tourists Spending,SAR Mn,2023,535.53980069
+Northern,Inbound,Average Length of Stay,Night,2023,5.8508481617781225
+Northern,Inbound,Average Spending per Trip,SAR,2023,1503.31
+Northern,Inbound,Average Spending per Night,SAR,2023,256.94
+Northern,Domestic,Tourists Number (Overnight Visitors),('000),2023,1070.445
+Northern,Domestic,Overnight Stays,('000),2023,7539.845
+Northern,Domestic,Tourists Spending,SAR Mn,2023,1984.01884672
+Northern,Domestic,Average Length of Stay,Night,2023,7.043654741719565
+Northern,Domestic,Average Spending per Trip,SAR,2023,1853.45
+Northern,Domestic,Average Spending per Night,SAR,2023,263.14
+Northern,Internal,Tourists Number (Overnight Visitors),('000),2023,1426.686
+Northern,Internal,Overnight Stays,('000),2023,9624.157
+Northern,Internal,Tourists Spending,SAR Mn,2023,2519.55864741
+Northern,Internal,Average Length of Stay,Night,2023,6.745813024029114
+Northern,Internal,Average Spending per Trip,SAR,2023,1766.02
+Northern,Internal,Average Spending per Night,SAR,2023,261.8
+Riyadh,Inbound,Tourists Number (Overnight Visitors),('000),2023,3010.057
+Riyadh,Inbound,Overnight Stays,('000),2023,56978.828
+Riyadh,Inbound,Tourists Spending,SAR Mn,2023,12541.56021589
+Riyadh,Inbound,Average Length of Stay,Night,2023,18.92948472404343
+Riyadh,Inbound,Average Spending per Trip,SAR,2023,4166.55
+Riyadh,Inbound,Average Spending per Night,SAR,2023,220.11
+Riyadh,Domestic,Tourists Number (Overnight Visitors),('000),2023,16347.778
+Riyadh,Domestic,Overnight Stays,('000),2023,98364.04
+Riyadh,Domestic,Tourists Spending,SAR Mn,2023,28575.94672592
+Riyadh,Domestic,Average Length of Stay,Night,2023,6.0169669541634345
+Riyadh,Domestic,Average Spending per Trip,SAR,2023,1748.0
+Riyadh,Domestic,Average Spending per Night,SAR,2023,290.51
+Riyadh,Internal,Tourists Number (Overnight Visitors),('000),2023,19357.835
+Riyadh,Internal,Overnight Stays,('000),2023,155342.868
+Riyadh,Internal,Tourists Spending,SAR Mn,2023,41117.506941809996
+Riyadh,Internal,Average Length of Stay,Night,2023,8.02480587317745
+Riyadh,Internal,Average Spending per Trip,SAR,2023,2124.08
+Riyadh,Internal,Average Spending per Night,SAR,2023,264.69
+Tabuk,Inbound,Tourists Number (Overnight Visitors),('000),2023,138.049
+Tabuk,Inbound,Overnight Stays,('000),2023,1177.166
+Tabuk,Inbound,Tourists Spending,SAR Mn,2023,341.320768
+Tabuk,Inbound,Average Length of Stay,Night,2023,8.52716064585763
+Tabuk,Inbound,Average Spending per Trip,SAR,2023,2472.46
+Tabuk,Inbound,Average Spending per Night,SAR,2023,289.95
+Tabuk,Domestic,Tourists Number (Overnight Visitors),('000),2023,2817.058
+Tabuk,Domestic,Overnight Stays,('000),2023,18465.444
+Tabuk,Domestic,Tourists Spending,SAR Mn,2023,4201.5417734
+Tabuk,Domestic,Average Length of Stay,Night,2023,6.5548682348748235
+Tabuk,Domestic,Average Spending per Trip,SAR,2023,1491.46
+Tabuk,Domestic,Average Spending per Night,SAR,2023,227.54
+Tabuk,Internal,Tourists Number (Overnight Visitors),('000),2023,2955.107
+Tabuk,Internal,Overnight Stays,('000),2023,19642.61
+Tabuk,Internal,Tourists Spending,SAR Mn,2023,4542.8625414
+Tabuk,Internal,Average Length of Stay,Night,2023,6.647004660068147
+Tabuk,Internal,Average Spending per Trip,SAR,2023,1537.29
+Tabuk,Internal,Average Spending per Night,SAR,2023,231.28
+Baha,Inbound,Tourists Number (Overnight Visitors),('000),2024,8.111
+Baha,Inbound,Overnight Stays,('000),2024,54.085
+Baha,Inbound,Tourists Spending,SAR Mn,2024,22.17663435
+Baha,Inbound,Average Length of Stay,Night,2024,6.66810504253483
+Baha,Inbound,Average Spending per Trip,SAR,2024,2734.14
+Baha,Inbound,Average Spending per Night,SAR,2024,410.03
+Baha,Domestic,Tourists Number (Overnight Visitors),('000),2024,1126.723
+Baha,Domestic,Overnight Stays,('000),2024,10345.966
+Baha,Domestic,Tourists Spending,SAR Mn,2024,1122.96491839
+Baha,Domestic,Average Length of Stay,Night,2024,9.182350941624517
+Baha,Domestic,Average Spending per Trip,SAR,2024,996.66
+Baha,Domestic,Average Spending per Night,SAR,2024,108.54
+Baha,Internal,Tourists Number (Overnight Visitors),('000),2024,1134.834
+Baha,Internal,Overnight Stays,('000),2024,10400.051
+Baha,Internal,Tourists Spending,SAR Mn,2024,1145.14155274
+Baha,Internal,Average Length of Stay,Night,2024,9.164380869801223
+Baha,Internal,Average Spending per Trip,SAR,2024,1009.08
+Baha,Internal,Average Spending per Night,SAR,2024,110.11
+Qassim,Inbound,Tourists Number (Overnight Visitors),('000),2024,317.38
+Qassim,Inbound,Overnight Stays,('000),2024,18847.709
+Qassim,Inbound,Tourists Spending,SAR Mn,2024,1765.41876944
+Qassim,Inbound,Average Length of Stay,Night,2024,59.38530783288172
+Qassim,Inbound,Average Spending per Trip,SAR,2024,5562.48
+Qassim,Inbound,Average Spending per Night,SAR,2024,93.67
+Qassim,Domestic,Tourists Number (Overnight Visitors),('000),2024,4872.445
+Qassim,Domestic,Overnight Stays,('000),2024,31343.238
+Qassim,Domestic,Tourists Spending,SAR Mn,2024,5689.9445565
+Qassim,Domestic,Average Length of Stay,Night,2024,6.432753576489832
+Qassim,Domestic,Average Spending per Trip,SAR,2024,1167.78
+Qassim,Domestic,Average Spending per Night,SAR,2024,181.54
+Qassim,Internal,Tourists Number (Overnight Visitors),('000),2024,5189.825
+Qassim,Internal,Overnight Stays,('000),2024,50190.947
+Qassim,Internal,Tourists Spending,SAR Mn,2024,7455.363325939999
+Qassim,Internal,Average Length of Stay,Night,2024,9.67102879191495
+Qassim,Internal,Average Spending per Trip,SAR,2024,1436.53
+Qassim,Internal,Average Spending per Night,SAR,2024,148.54
+Assir,Inbound,Tourists Number (Overnight Visitors),('000),2024,157.522
+Assir,Inbound,Overnight Stays,('000),2024,2997.321
+Assir,Inbound,Tourists Spending,SAR Mn,2024,515.6139452900001
+Assir,Inbound,Average Length of Stay,Night,2024,19.027951651197927
+Assir,Inbound,Average Spending per Trip,SAR,2024,3273.28
+Assir,Inbound,Average Spending per Night,SAR,2024,172.02
+Assir,Domestic,Tourists Number (Overnight Visitors),('000),2024,7333.549
+Assir,Domestic,Overnight Stays,('000),2024,61210.515
+Assir,Domestic,Tourists Spending,SAR Mn,2024,8598.5186626
+Assir,Domestic,Average Length of Stay,Night,2024,8.346642941909845
+Assir,Domestic,Average Spending per Trip,SAR,2024,1172.49
+Assir,Domestic,Average Spending per Night,SAR,2024,140.47
+Assir,Internal,Tourists Number (Overnight Visitors),('000),2024,7491.071
+Assir,Internal,Overnight Stays,('000),2024,64207.836
+Assir,Internal,Tourists Spending,SAR Mn,2024,9114.13260789
+Assir,Internal,Average Length of Stay,Night,2024,8.571249157830703
+Assir,Internal,Average Spending per Trip,SAR,2024,1216.67
+Assir,Internal,Average Spending per Night,SAR,2024,141.95
+Eastern,Inbound,Tourists Number (Overnight Visitors),('000),2024,4997.672
+Eastern,Inbound,Overnight Stays,('000),2024,26689.27
+Eastern,Inbound,Tourists Spending,SAR Mn,2024,8665.55066052
+Eastern,Inbound,Average Length of Stay,Night,2024,5.340340462519349
+Eastern,Inbound,Average Spending per Trip,SAR,2024,1733.92
+Eastern,Inbound,Average Spending per Night,SAR,2024,324.68
+Eastern,Domestic,Tourists Number (Overnight Visitors),('000),2024,13644.38
+Eastern,Domestic,Overnight Stays,('000),2024,81591.377
+Eastern,Domestic,Tourists Spending,SAR Mn,2024,16421.82342403
+Eastern,Domestic,Average Length of Stay,Night,2024,5.979852290833295
+Eastern,Domestic,Average Spending per Trip,SAR,2024,1203.56
+Eastern,Domestic,Average Spending per Night,SAR,2024,201.27
+Eastern,Internal,Tourists Number (Overnight Visitors),('000),2024,18642.052
+Eastern,Internal,Overnight Stays,('000),2024,108280.647
+Eastern,Internal,Tourists Spending,SAR Mn,2024,25087.37408455
+Eastern,Internal,Average Length of Stay,Night,2024,5.808408162363242
+Eastern,Internal,Average Spending per Trip,SAR,2024,1345.74
+Eastern,Internal,Average Spending per Night,SAR,2024,231.69
+Hail,Inbound,Tourists Number (Overnight Visitors),('000),2024,326.194
+Hail,Inbound,Overnight Stays,('000),2024,18860.31
+Hail,Inbound,Tourists Spending,SAR Mn,2024,1359.35765596
+Hail,Inbound,Average Length of Stay,Night,2024,57.81930384985622
+Hail,Inbound,Average Spending per Trip,SAR,2024,4167.33
+Hail,Inbound,Average Spending per Night,SAR,2024,72.08
+Hail,Domestic,Tourists Number (Overnight Visitors),('000),2024,1840.798
+Hail,Domestic,Overnight Stays,('000),2024,13792.431
+Hail,Domestic,Tourists Spending,SAR Mn,2024,2550.0493570500003
+Hail,Domestic,Average Length of Stay,Night,2024,7.492636889001401
+Hail,Domestic,Average Spending per Trip,SAR,2024,1385.3
+Hail,Domestic,Average Spending per Night,SAR,2024,184.89
+Hail,Internal,Tourists Number (Overnight Visitors),('000),2024,2166.992
+Hail,Internal,Overnight Stays,('000),2024,32652.741
+Hail,Internal,Tourists Spending,SAR Mn,2024,3909.4070130100004
+Hail,Internal,Average Length of Stay,Night,2024,15.068233292970163
+Hail,Internal,Average Spending per Trip,SAR,2024,1804.07
+Hail,Internal,Average Spending per Night,SAR,2024,119.73
+Jazan,Inbound,Tourists Number (Overnight Visitors),('000),2024,13.339
+Jazan,Inbound,Overnight Stays,('000),2024,553.049
+Jazan,Inbound,Tourists Spending,SAR Mn,2024,53.44622217
+Jazan,Inbound,Average Length of Stay,Night,2024,41.46105405202789
+Jazan,Inbound,Average Spending per Trip,SAR,2024,4006.76
+Jazan,Inbound,Average Spending per Night,SAR,2024,96.64
+Jazan,Domestic,Tourists Number (Overnight Visitors),('000),2024,2936.373
+Jazan,Domestic,Overnight Stays,('000),2024,16839.551
+Jazan,Domestic,Tourists Spending,SAR Mn,2024,2858.2610012399996
+Jazan,Domestic,Average Length of Stay,Night,2024,5.734813322421913
+Jazan,Domestic,Average Spending per Trip,SAR,2024,973.4
+Jazan,Domestic,Average Spending per Night,SAR,2024,169.73
+Jazan,Internal,Tourists Number (Overnight Visitors),('000),2024,2949.712
+Jazan,Internal,Overnight Stays,('000),2024,17392.6
+Jazan,Internal,Tourists Spending,SAR Mn,2024,2911.7072234099996
+Jazan,Internal,Average Length of Stay,Night,2024,5.896372256003298
+Jazan,Internal,Average Spending per Trip,SAR,2024,987.12
+Jazan,Internal,Average Spending per Night,SAR,2024,167.41
+Jouf,Inbound,Tourists Number (Overnight Visitors),('000),2024,330.981
+Jouf,Inbound,Overnight Stays,('000),2024,4460.558
+Jouf,Inbound,Tourists Spending,SAR Mn,2024,767.94503351
+Jouf,Inbound,Average Length of Stay,Night,2024,13.476779633876264
+Jouf,Inbound,Average Spending per Trip,SAR,2024,2320.21
+Jouf,Inbound,Average Spending per Night,SAR,2024,172.16
+Jouf,Domestic,Tourists Number (Overnight Visitors),('000),2024,1159.397
+Jouf,Domestic,Overnight Stays,('000),2024,9587.463
+Jouf,Domestic,Tourists Spending,SAR Mn,2024,1571.20796921
+Jouf,Domestic,Average Length of Stay,Night,2024,8.269352948127345
+Jouf,Domestic,Average Spending per Trip,SAR,2024,1355.19
+Jouf,Domestic,Average Spending per Night,SAR,2024,163.88
+Jouf,Internal,Tourists Number (Overnight Visitors),('000),2024,1490.378
+Jouf,Internal,Overnight Stays,('000),2024,14048.021
+Jouf,Internal,Tourists Spending,SAR Mn,2024,2339.1530027199997
+Jouf,Internal,Average Length of Stay,Night,2024,9.425810767469729
+Jouf,Internal,Average Spending per Trip,SAR,2024,1569.5
+Jouf,Internal,Average Spending per Night,SAR,2024,166.51
+Madinah,Inbound,Tourists Number (Overnight Visitors),('000),2024,438.719
+Madinah,Inbound,Overnight Stays,('000),2024,7860.086
+Madinah,Inbound,Tourists Spending,SAR Mn,2024,1842.16976391
+Madinah,Inbound,Average Length of Stay,Night,2024,17.915991785174565
+Madinah,Inbound,Average Spending per Trip,SAR,2024,4198.97
+Madinah,Inbound,Average Spending per Night,SAR,2024,234.37
+Madinah,Domestic,Tourists Number (Overnight Visitors),('000),2024,6720.888
+Madinah,Domestic,Overnight Stays,('000),2024,34643.941
+Madinah,Domestic,Tourists Spending,SAR Mn,2024,7474.6438655
+Madinah,Domestic,Average Length of Stay,Night,2024,5.154667210642403
+Madinah,Domestic,Average Spending per Trip,SAR,2024,1112.15
+Madinah,Domestic,Average Spending per Night,SAR,2024,215.76
+Madinah,Internal,Tourists Number (Overnight Visitors),('000),2024,7159.607
+Madinah,Internal,Overnight Stays,('000),2024,42504.027
+Madinah,Internal,Tourists Spending,SAR Mn,2024,9316.81362941
+Madinah,Internal,Average Length of Stay,Night,2024,5.936642472135691
+Madinah,Internal,Average Spending per Trip,SAR,2024,1301.3
+Madinah,Internal,Average Spending per Night,SAR,2024,219.2
+Makkah,Inbound,Tourists Number (Overnight Visitors),('000),2024,19570.389
+Makkah,Inbound,Overnight Stays,('000),2024,430796.199
+Makkah,Inbound,Tourists Spending,SAR Mn,2024,140770.26644895002
+Makkah,Inbound,Average Length of Stay,Night,2024,22.012653861913527
+Makkah,Inbound,Average Spending per Trip,SAR,2024,7193.02
+Makkah,Inbound,Average Spending per Night,SAR,2024,326.77
+Makkah,Domestic,Tourists Number (Overnight Visitors),('000),2024,23487.12
+Makkah,Domestic,Overnight Stays,('000),2024,130615.384
+Makkah,Domestic,Tourists Spending,SAR Mn,2024,30656.78619203
+Makkah,Domestic,Average Length of Stay,Night,2024,5.561149429985456
+Makkah,Domestic,Average Spending per Trip,SAR,2024,1305.26
+Makkah,Domestic,Average Spending per Night,SAR,2024,234.71
+Makkah,Internal,Tourists Number (Overnight Visitors),('000),2024,43057.509
+Makkah,Internal,Overnight Stays,('000),2024,561411.583
+Makkah,Internal,Tourists Spending,SAR Mn,2024,171427.05264098002
+Makkah,Internal,Average Length of Stay,Night,2024,13.038645198912924
+Makkah,Internal,Average Spending per Trip,SAR,2024,3981.35
+Makkah,Internal,Average Spending per Night,SAR,2024,305.35
+Najran,Inbound,Tourists Number (Overnight Visitors),('000),2024,24.347
+Najran,Inbound,Overnight Stays,('000),2024,1051.243
+Najran,Inbound,Tourists Spending,SAR Mn,2024,56.220975079999995
+Najran,Inbound,Average Length of Stay,Night,2024,43.17751673717501
+Najran,Inbound,Average Spending per Trip,SAR,2024,2309.15
+Najran,Inbound,Average Spending per Night,SAR,2024,53.48
+Najran,Domestic,Tourists Number (Overnight Visitors),('000),2024,1259.012
+Najran,Domestic,Overnight Stays,('000),2024,11352.196
+Najran,Domestic,Tourists Spending,SAR Mn,2024,2115.48024076
+Najran,Domestic,Average Length of Stay,Night,2024,9.016749641782605
+Najran,Domestic,Average Spending per Trip,SAR,2024,1680.27
+Najran,Domestic,Average Spending per Night,SAR,2024,186.35
+Najran,Internal,Tourists Number (Overnight Visitors),('000),2024,1283.359
+Najran,Internal,Overnight Stays,('000),2024,12403.439
+Najran,Internal,Tourists Spending,SAR Mn,2024,2171.7012158400003
+Najran,Internal,Average Length of Stay,Night,2024,9.66482410611528
+Najran,Internal,Average Spending per Trip,SAR,2024,1692.2
+Najran,Internal,Average Spending per Night,SAR,2024,175.09
+Northern,Inbound,Tourists Number (Overnight Visitors),('000),2024,527.985
+Northern,Inbound,Overnight Stays,('000),2024,2859.813
+Northern,Inbound,Tourists Spending,SAR Mn,2024,1200.17990053
+Northern,Inbound,Average Length of Stay,Night,2024,5.416466376885707
+Northern,Inbound,Average Spending per Trip,SAR,2024,2273.13
+Northern,Inbound,Average Spending per Night,SAR,2024,419.67
+Northern,Domestic,Tourists Number (Overnight Visitors),('000),2024,1089.552
+Northern,Domestic,Overnight Stays,('000),2024,8261.917
+Northern,Domestic,Tourists Spending,SAR Mn,2024,1843.30387912
+Northern,Domestic,Average Length of Stay,Night,2024,7.582856990763176
+Northern,Domestic,Average Spending per Trip,SAR,2024,1691.8
+Northern,Domestic,Average Spending per Night,SAR,2024,223.11
+Northern,Internal,Tourists Number (Overnight Visitors),('000),2024,1617.537
+Northern,Internal,Overnight Stays,('000),2024,11121.73
+Northern,Internal,Tourists Spending,SAR Mn,2024,3043.48377965
+Northern,Internal,Average Length of Stay,Night,2024,6.875719071650293
+Northern,Internal,Average Spending per Trip,SAR,2024,1881.55
+Northern,Internal,Average Spending per Night,SAR,2024,273.65
+Riyadh,Inbound,Tourists Number (Overnight Visitors),('000),2024,2860.722
+Riyadh,Inbound,Overnight Stays,('000),2024,40616.598
+Riyadh,Inbound,Tourists Spending,SAR Mn,2024,10573.64782502
+Riyadh,Inbound,Average Length of Stay,Night,2024,14.198023436041671
+Riyadh,Inbound,Average Spending per Trip,SAR,2024,3696.15
+Riyadh,Inbound,Average Spending per Night,SAR,2024,260.33
+Riyadh,Domestic,Tourists Number (Overnight Visitors),('000),2024,17596.758
+Riyadh,Domestic,Overnight Stays,('000),2024,107571.282
+Riyadh,Domestic,Tourists Spending,SAR Mn,2024,29493.02531583
+Riyadh,Domestic,Average Length of Stay,Night,2024,6.1131307255575145
+Riyadh,Domestic,Average Spending per Trip,SAR,2024,1676.05
+Riyadh,Domestic,Average Spending per Night,SAR,2024,274.17
+Riyadh,Internal,Tourists Number (Overnight Visitors),('000),2024,20457.48
+Riyadh,Internal,Overnight Stays,('000),2024,148187.88
+Riyadh,Internal,Tourists Spending,SAR Mn,2024,40066.67314085
+Riyadh,Internal,Average Length of Stay,Night,2024,7.243701570281384
+Riyadh,Internal,Average Spending per Trip,SAR,2024,1958.53
+Riyadh,Internal,Average Spending per Night,SAR,2024,270.38
+Tabuk,Inbound,Tourists Number (Overnight Visitors),('000),2024,154.082
+Tabuk,Inbound,Overnight Stays,('000),2024,4580.951
+Tabuk,Inbound,Tourists Spending,SAR Mn,2024,932.18051159
+Tabuk,Inbound,Average Length of Stay,Night,2024,29.73060448332706
+Tabuk,Inbound,Average Spending per Trip,SAR,2024,6049.9
+Tabuk,Inbound,Average Spending per Night,SAR,2024,203.49
+Tabuk,Domestic,Tourists Number (Overnight Visitors),('000),2024,3090.364
+Tabuk,Domestic,Overnight Stays,('000),2024,21462.292
+Tabuk,Domestic,Tourists Spending,SAR Mn,2024,4879.76663846
+Tabuk,Domestic,Average Length of Stay,Night,2024,6.944907460739253
+Tabuk,Domestic,Average Spending per Trip,SAR,2024,1579.03
+Tabuk,Domestic,Average Spending per Night,SAR,2024,227.36
+Tabuk,Internal,Tourists Number (Overnight Visitors),('000),2024,3244.446
+Tabuk,Internal,Overnight Stays,('000),2024,26043.243
+Tabuk,Internal,Tourists Spending,SAR Mn,2024,5811.94715005
+Tabuk,Internal,Average Length of Stay,Night,2024,8.027023103482074
+Tabuk,Internal,Average Spending per Trip,SAR,2024,1791.35
+Tabuk,Internal,Average Spending per Night,SAR,2024,223.17
+Baha,Inbound,Tourists Number (Overnight Visitors),('000),2025,5.824
+Baha,Inbound,Overnight Stays,('000),2025,349.819
+Baha,Inbound,Tourists Spending,SAR Mn,2025,36.80140322
+Baha,Inbound,Average Length of Stay,Night,2025,60.06507554945055
+Baha,Inbound,Average Spending per Trip,SAR,2025,6318.92
+Baha,Inbound,Average Spending per Night,SAR,2025,105.2
+Baha,Domestic,Tourists Number (Overnight Visitors),('000),2025,1132.822
+Baha,Domestic,Overnight Stays,('000),2025,9195.958
+Baha,Domestic,Tourists Spending,SAR Mn,2025,917.3274643
+Baha,Domestic,Average Length of Stay,Night,2025,8.117743122926639
+Baha,Domestic,Average Spending per Trip,SAR,2025,809.77
+Baha,Domestic,Average Spending per Night,SAR,2025,99.75
+Baha,Internal,Tourists Number (Overnight Visitors),('000),2025,1138.646
+Baha,Internal,Overnight Stays,('000),2025,9545.777
+Baha,Internal,Tourists Spending,SAR Mn,2025,954.12886752
+Baha,Internal,Average Length of Stay,Night,2025,8.38344577682616
+Baha,Internal,Average Spending per Trip,SAR,2025,837.95
+Baha,Internal,Average Spending per Night,SAR,2025,99.95
+Qassim,Inbound,Tourists Number (Overnight Visitors),('000),2025,283.214
+Qassim,Inbound,Overnight Stays,('000),2025,17272.986
+Qassim,Inbound,Tourists Spending,SAR Mn,2025,1434.17053881
+Qassim,Inbound,Average Length of Stay,Night,2025,60.98916720218633
+Qassim,Inbound,Average Spending per Trip,SAR,2025,5063.91
+Qassim,Inbound,Average Spending per Night,SAR,2025,83.03
+Qassim,Domestic,Tourists Number (Overnight Visitors),('000),2025,3281.654
+Qassim,Domestic,Overnight Stays,('000),2025,18310.631
+Qassim,Domestic,Tourists Spending,SAR Mn,2025,3066.1500383899997
+Qassim,Domestic,Average Length of Stay,Night,2025,5.579695787551033
+Qassim,Domestic,Average Spending per Trip,SAR,2025,934.33
+Qassim,Domestic,Average Spending per Night,SAR,2025,167.45
+Qassim,Internal,Tourists Number (Overnight Visitors),('000),2025,3564.868
+Qassim,Internal,Overnight Stays,('000),2025,35583.617
+Qassim,Internal,Tourists Spending,SAR Mn,2025,4500.3205772
+Qassim,Internal,Average Length of Stay,Night,2025,9.981748833336887
+Qassim,Internal,Average Spending per Trip,SAR,2025,1262.41
+Qassim,Internal,Average Spending per Night,SAR,2025,126.47
+Assir,Inbound,Tourists Number (Overnight Visitors),('000),2025,260.291
+Assir,Inbound,Overnight Stays,('000),2025,12508.715
+Assir,Inbound,Tourists Spending,SAR Mn,2025,1016.67212349
+Assir,Inbound,Average Length of Stay,Night,2025,48.05665581983242
+Assir,Inbound,Average Spending per Trip,SAR,2025,3905.91
+Assir,Inbound,Average Spending per Night,SAR,2025,81.28
+Assir,Domestic,Tourists Number (Overnight Visitors),('000),2025,5906.566
+Assir,Domestic,Overnight Stays,('000),2025,37701.258
+Assir,Domestic,Tourists Spending,SAR Mn,2025,5282.957246229999
+Assir,Domestic,Average Length of Stay,Night,2025,6.382940273587056
+Assir,Domestic,Average Spending per Trip,SAR,2025,894.42
+Assir,Domestic,Average Spending per Night,SAR,2025,140.13
+Assir,Internal,Tourists Number (Overnight Visitors),('000),2025,6166.857
+Assir,Internal,Overnight Stays,('000),2025,50209.973
+Assir,Internal,Tourists Spending,SAR Mn,2025,6299.62936972
+Assir,Internal,Average Length of Stay,Night,2025,8.141906484940383
+Assir,Internal,Average Spending per Trip,SAR,2025,1021.53
+Assir,Internal,Average Spending per Night,SAR,2025,125.47
+Eastern,Inbound,Tourists Number (Overnight Visitors),('000),2025,3606.02
+Eastern,Inbound,Overnight Stays,('000),2025,18690.589
+Eastern,Inbound,Tourists Spending,SAR Mn,2025,6472.24933299
+Eastern,Inbound,Average Length of Stay,Night,2025,5.1831628776324035
+Eastern,Inbound,Average Spending per Trip,SAR,2025,1794.85
+Eastern,Inbound,Average Spending per Night,SAR,2025,346.28
+Eastern,Domestic,Tourists Number (Overnight Visitors),('000),2025,12965.309
+Eastern,Domestic,Overnight Stays,('000),2025,68351.574
+Eastern,Domestic,Tourists Spending,SAR Mn,2025,14624.90475364
+Eastern,Domestic,Average Length of Stay,Night,2025,5.271881603438838
+Eastern,Domestic,Average Spending per Trip,SAR,2025,1128.0
+Eastern,Domestic,Average Spending per Night,SAR,2025,213.97
+Eastern,Internal,Tourists Number (Overnight Visitors),('000),2025,16571.329
+Eastern,Internal,Overnight Stays,('000),2025,87042.163
+Eastern,Internal,Tourists Spending,SAR Mn,2025,21097.154086630002
+Eastern,Internal,Average Length of Stay,Night,2025,5.252575879701622
+Eastern,Internal,Average Spending per Trip,SAR,2025,1273.11
+Eastern,Internal,Average Spending per Night,SAR,2025,242.38
+Hail,Inbound,Tourists Number (Overnight Visitors),('000),2025,230.743
+Hail,Inbound,Overnight Stays,('000),2025,8571.929
+Hail,Inbound,Tourists Spending,SAR Mn,2025,755.34606533
+Hail,Inbound,Average Length of Stay,Night,2025,37.14924829788986
+Hail,Inbound,Average Spending per Trip,SAR,2025,3273.54
+Hail,Inbound,Average Spending per Night,SAR,2025,88.12
+Hail,Domestic,Tourists Number (Overnight Visitors),('000),2025,2269.876
+Hail,Domestic,Overnight Stays,('000),2025,15208.889
+Hail,Domestic,Tourists Spending,SAR Mn,2025,2665.46804296
+Hail,Domestic,Average Length of Stay,Night,2025,6.700317109833312
+Hail,Domestic,Average Spending per Trip,SAR,2025,1174.28
+Hail,Domestic,Average Spending per Night,SAR,2025,175.26
+Hail,Internal,Tourists Number (Overnight Visitors),('000),2025,2500.619
+Hail,Internal,Overnight Stays,('000),2025,23780.818
+Hail,Internal,Tourists Spending,SAR Mn,2025,3420.81410829
+Hail,Internal,Average Length of Stay,Night,2025,9.509972530801374
+Hail,Internal,Average Spending per Trip,SAR,2025,1367.99
+Hail,Internal,Average Spending per Night,SAR,2025,143.85
+Jazan,Inbound,Tourists Number (Overnight Visitors),('000),2025,13.618
+Jazan,Inbound,Overnight Stays,('000),2025,824.461
+Jazan,Inbound,Tourists Spending,SAR Mn,2025,69.84831765000001
+Jazan,Inbound,Average Length of Stay,Night,2025,60.54200323101777
+Jazan,Inbound,Average Spending per Trip,SAR,2025,5129.12
+Jazan,Inbound,Average Spending per Night,SAR,2025,84.72
+Jazan,Domestic,Tourists Number (Overnight Visitors),('000),2025,4274.399
+Jazan,Domestic,Overnight Stays,('000),2025,28307.88
+Jazan,Domestic,Tourists Spending,SAR Mn,2025,3377.11079677
+Jazan,Domestic,Average Length of Stay,Night,2025,6.622657360719016
+Jazan,Domestic,Average Spending per Trip,SAR,2025,790.08
+Jazan,Domestic,Average Spending per Night,SAR,2025,119.3
+Jazan,Internal,Tourists Number (Overnight Visitors),('000),2025,4288.017
+Jazan,Internal,Overnight Stays,('000),2025,29132.341
+Jazan,Internal,Tourists Spending,SAR Mn,2025,3446.95911442
+Jazan,Internal,Average Length of Stay,Night,2025,6.793895873080727
+Jazan,Internal,Average Spending per Trip,SAR,2025,803.86
+Jazan,Internal,Average Spending per Night,SAR,2025,118.32
+Jouf,Inbound,Tourists Number (Overnight Visitors),('000),2025,458.499
+Jouf,Inbound,Overnight Stays,('000),2025,11542.683
+Jouf,Inbound,Tourists Spending,SAR Mn,2025,1279.63160242
+Jouf,Inbound,Average Length of Stay,Night,2025,25.174936041299983
+Jouf,Inbound,Average Spending per Trip,SAR,2025,2790.91
+Jouf,Inbound,Average Spending per Night,SAR,2025,110.86
+Jouf,Domestic,Tourists Number (Overnight Visitors),('000),2025,1602.833
+Jouf,Domestic,Overnight Stays,('000),2025,12248.49
+Jouf,Domestic,Tourists Spending,SAR Mn,2025,2068.90181117
+Jouf,Domestic,Average Length of Stay,Night,2025,7.641775531200069
+Jouf,Domestic,Average Spending per Trip,SAR,2025,1290.78
+Jouf,Domestic,Average Spending per Night,SAR,2025,168.91
+Jouf,Internal,Tourists Number (Overnight Visitors),('000),2025,2061.332
+Jouf,Internal,Overnight Stays,('000),2025,23791.173
+Jouf,Internal,Tourists Spending,SAR Mn,2025,3348.5334135900002
+Jouf,Internal,Average Length of Stay,Night,2025,11.54165025333134
+Jouf,Internal,Average Spending per Trip,SAR,2025,1624.45
+Jouf,Internal,Average Spending per Night,SAR,2025,140.75
+Madinah,Inbound,Tourists Number (Overnight Visitors),('000),2025,754.214
+Madinah,Inbound,Overnight Stays,('000),2025,20691.329
+Madinah,Inbound,Tourists Spending,SAR Mn,2025,3633.94737858
+Madinah,Inbound,Average Length of Stay,Night,2025,27.434294510576574
+Madinah,Inbound,Average Spending per Trip,SAR,2025,4818.19
+Madinah,Inbound,Average Spending per Night,SAR,2025,175.63
+Madinah,Domestic,Tourists Number (Overnight Visitors),('000),2025,6500.955
+Madinah,Domestic,Overnight Stays,('000),2025,39488.826
+Madinah,Domestic,Tourists Spending,SAR Mn,2025,9015.413270340001
+Madinah,Domestic,Average Length of Stay,Night,2025,6.074311543457846
+Madinah,Domestic,Average Spending per Trip,SAR,2025,1386.78
+Madinah,Domestic,Average Spending per Night,SAR,2025,228.3
+Madinah,Internal,Tourists Number (Overnight Visitors),('000),2025,7255.169
+Madinah,Internal,Overnight Stays,('000),2025,60180.155
+Madinah,Internal,Tourists Spending,SAR Mn,2025,12649.36064892
+Madinah,Internal,Average Length of Stay,Night,2025,8.294797130156445
+Madinah,Internal,Average Spending per Trip,SAR,2025,1743.5
+Madinah,Internal,Average Spending per Night,SAR,2025,210.19
+Makkah,Inbound,Tourists Number (Overnight Visitors),('000),2025,20427.855
+Makkah,Inbound,Overnight Stays,('000),2025,406996.344
+Makkah,Inbound,Tourists Spending,SAR Mn,2025,149394.81539118
+Makkah,Inbound,Average Length of Stay,Night,2025,19.923596677184168
+Makkah,Inbound,Average Spending per Trip,SAR,2025,7313.29
+Makkah,Inbound,Average Spending per Night,SAR,2025,367.07
+Makkah,Domestic,Tourists Number (Overnight Visitors),('000),2025,28636.256
+Makkah,Domestic,Overnight Stays,('000),2025,163017.669
+Makkah,Domestic,Tourists Spending,SAR Mn,2025,38615.455034089995
+Makkah,Domestic,Average Length of Stay,Night,2025,5.692701902092229
+Makkah,Domestic,Average Spending per Trip,SAR,2025,1348.48
+Makkah,Domestic,Average Spending per Night,SAR,2025,236.88
+Makkah,Internal,Tourists Number (Overnight Visitors),('000),2025,49064.111
+Makkah,Internal,Overnight Stays,('000),2025,570014.013
+Makkah,Internal,Tourists Spending,SAR Mn,2025,188010.27042527
+Makkah,Internal,Average Length of Stay,Night,2025,11.617738533976494
+Makkah,Internal,Average Spending per Trip,SAR,2025,3831.93
+Makkah,Internal,Average Spending per Night,SAR,2025,329.83
+Najran,Inbound,Tourists Number (Overnight Visitors),('000),2025,81.566
+Najran,Inbound,Overnight Stays,('000),2025,3760.8
+Najran,Inbound,Tourists Spending,SAR Mn,2025,216.82836788
+Najran,Inbound,Average Length of Stay,Night,2025,46.107446730255255
+Najran,Inbound,Average Spending per Trip,SAR,2025,2658.32
+Najran,Inbound,Average Spending per Night,SAR,2025,57.65
+Najran,Domestic,Tourists Number (Overnight Visitors),('000),2025,1291.746
+Najran,Domestic,Overnight Stays,('000),2025,16311.225
+Najran,Domestic,Tourists Spending,SAR Mn,2025,1795.3797956199999
+Najran,Domestic,Average Length of Stay,Night,2025,12.627269602537961
+Najran,Domestic,Average Spending per Trip,SAR,2025,1389.89
+Najran,Domestic,Average Spending per Night,SAR,2025,110.07
+Najran,Internal,Tourists Number (Overnight Visitors),('000),2025,1373.312
+Najran,Internal,Overnight Stays,('000),2025,20072.025
+Najran,Internal,Tourists Spending,SAR Mn,2025,2012.2081635
+Najran,Internal,Average Length of Stay,Night,2025,14.61577922569671
+Najran,Internal,Average Spending per Trip,SAR,2025,1465.22
+Najran,Internal,Average Spending per Night,SAR,2025,100.25
+Northern,Inbound,Tourists Number (Overnight Visitors),('000),2025,448.774
+Northern,Inbound,Overnight Stays,('000),2025,2644.586
+Northern,Inbound,Tourists Spending,SAR Mn,2025,752.13507851
+Northern,Inbound,Average Length of Stay,Night,2025,5.892912691020425
+Northern,Inbound,Average Spending per Trip,SAR,2025,1675.98
+Northern,Inbound,Average Spending per Night,SAR,2025,284.41
+Northern,Domestic,Tourists Number (Overnight Visitors),('000),2025,1083.718
+Northern,Domestic,Overnight Stays,('000),2025,8567.79
+Northern,Domestic,Tourists Spending,SAR Mn,2025,1646.6551931400002
+Northern,Domestic,Average Length of Stay,Night,2025,7.905922020304175
+Northern,Domestic,Average Spending per Trip,SAR,2025,1519.45
+Northern,Domestic,Average Spending per Night,SAR,2025,192.19
+Northern,Internal,Tourists Number (Overnight Visitors),('000),2025,1532.492
+Northern,Internal,Overnight Stays,('000),2025,11212.376
+Northern,Internal,Tourists Spending,SAR Mn,2025,2398.7902716500002
+Northern,Internal,Average Length of Stay,Night,2025,7.316433625754653
+Northern,Internal,Average Spending per Trip,SAR,2025,1565.29
+Northern,Internal,Average Spending per Night,SAR,2025,213.94
+Riyadh,Inbound,Tourists Number (Overnight Visitors),('000),2025,2316.449
+Riyadh,Inbound,Overnight Stays,('000),2025,30205.098
+Riyadh,Inbound,Tourists Spending,SAR Mn,2025,9141.56595668
+Riyadh,Inbound,Average Length of Stay,Night,2025,13.039396939021753
+Riyadh,Inbound,Average Spending per Trip,SAR,2025,3946.37
+Riyadh,Inbound,Average Spending per Night,SAR,2025,302.65
+Riyadh,Domestic,Tourists Number (Overnight Visitors),('000),2025,21766.298
+Riyadh,Domestic,Overnight Stays,('000),2025,129232.585
+Riyadh,Domestic,Tourists Spending,SAR Mn,2025,39744.145097199995
+Riyadh,Domestic,Average Length of Stay,Night,2025,5.937279044879382
+Riyadh,Domestic,Average Spending per Trip,SAR,2025,1825.95
+Riyadh,Domestic,Average Spending per Night,SAR,2025,307.54
+Riyadh,Internal,Tourists Number (Overnight Visitors),('000),2025,24082.747
+Riyadh,Internal,Overnight Stays,('000),2025,159437.683
+Riyadh,Internal,Tourists Spending,SAR Mn,2025,48885.71105388
+Riyadh,Internal,Average Length of Stay,Night,2025,6.620410993812293
+Riyadh,Internal,Average Spending per Trip,SAR,2025,2029.91
+Riyadh,Internal,Average Spending per Night,SAR,2025,306.61
+Tabuk,Inbound,Tourists Number (Overnight Visitors),('000),2025,367.72
+Tabuk,Inbound,Overnight Stays,('000),2025,13624.533
+Tabuk,Inbound,Tourists Spending,SAR Mn,2025,2424.6811767
+Tabuk,Inbound,Average Length of Stay,Night,2025,37.051378766452736
+Tabuk,Inbound,Average Spending per Trip,SAR,2025,6593.82
+Tabuk,Inbound,Average Spending per Night,SAR,2025,177.96
+Tabuk,Domestic,Tourists Number (Overnight Visitors),('000),2025,2611.081
+Tabuk,Domestic,Overnight Stays,('000),2025,18125.687
+Tabuk,Domestic,Tourists Spending,SAR Mn,2025,4256.67208365
+Tabuk,Domestic,Average Length of Stay,Night,2025,6.941832520706941
+Tabuk,Domestic,Average Spending per Trip,SAR,2025,1630.23
+Tabuk,Domestic,Average Spending per Night,SAR,2025,234.84
+Tabuk,Internal,Tourists Number (Overnight Visitors),('000),2025,2978.801
+Tabuk,Internal,Overnight Stays,('000),2025,31750.22
+Tabuk,Internal,Tourists Spending,SAR Mn,2025,6681.353260350001
+Tabuk,Internal,Average Length of Stay,Night,2025,10.6587247687912
+Tabuk,Internal,Average Spending per Trip,SAR,2025,2242.97
+Tabuk,Internal,Average Spending per Night,SAR,2025,210.43
