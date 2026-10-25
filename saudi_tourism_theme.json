@@ -1,0 +1,36 @@
+{
+  "name": "Saudi Tourism",
+  "dataColors": ["#2A78D6", "#E8642C", "#1BAF7A", "#EDA100", "#7B6CD9", "#9AA5B5", "#14213D", "#E34948"],
+  "background": "#FFFFFF",
+  "foreground": "#14213D",
+  "tableAccent": "#2A78D6",
+  "good": "#1D7A4A",
+  "bad": "#B2461B",
+  "neutral": "#9AA5B5",
+  "textClasses": {
+    "callout": {"fontSize": 26, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "title": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "header": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "label": {"fontSize": 10, "fontFace": "Segoe UI", "color": "#5A6475"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#E3E6EC"}}, "radius": 10}],
+        "dropShadow": [{"show": false}],
+        "padding": [{"top": 12, "bottom": 12, "left": 14, "right": 14}],
+        "visualHeader": [{"show": true, "background": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#F3F5F8"}}, "transparency": 0}],
+        "outspace": [{"color": {"solid": {"color": "#F3F5F8"}}, "transparency": 0}]
+      }
+    },
+    "lineChart": {"*": {"lineStyles": [{"strokeWidth": 3, "showMarker": true, "markerSize": 5}], "categoryAxis": [{"gridlineShow": false}], "valueAxis": [{"gridlineColor": {"solid": {"color": "#EEF0F4"}}}]}},
+    "barChart": {"*": {"categoryAxis": [{"gridlineShow": false}], "valueAxis": [{"show": false}], "labels": [{"show": true, "color": {"solid": {"color": "#14213D"}}}]}},
+    "slicer": {"*": {"items": [{"fontColor": {"solid": {"color": "#14213D"}}, "background": {"solid": {"color": "#FFFFFF"}}}]}}
+  }
+}

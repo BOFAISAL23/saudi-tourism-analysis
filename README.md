@@ -4,6 +4,10 @@ An end-to-end data analysis of tourism in Saudi Arabia using the Ministry of Tou
 
 ![Dashboard](images/07_dashboard.png)
 
+![Inbound markets page](images/08_inbound_markets.png)
+
+The Power BI report has two pages (Overview, Inbound markets), a star-schema data model (years and tourism_types tables linked to every fact table), and DAX measures for year-over-year change.
+
 ## Questions
 
 1. How have inbound and domestic tourism grown from 2021 to 2025?
@@ -56,7 +60,7 @@ Asia is the largest source region (32% of inbound tourists in 2025). Egypt moved
 | Cleaning | Python, pandas |
 | Analysis | SQL (SQLite): CTEs, window functions (`LAG`, `SUM() OVER`), `CASE WHEN`, self-join |
 | Charts | matplotlib |
-| Dashboard | Power BI (Power Query, DAX measures, slicers, edited interactions) |
+| Dashboard | Power BI (star-schema data model, DAX year-over-year measures, custom theme, synced slicers, edited interactions) |
 
 ## Project structure
 
